@@ -102,6 +102,7 @@ img {
 
 .inp {
   border: 3px solid #ff6795;
+  
   width: 237px;
   margin: 3px;
   height: 40px;
@@ -129,6 +130,7 @@ img {
   outline: none;
   font-size: 14px;
   width: 50%;
+  background-color: #ffffff;
 }
 
 .btn {
@@ -139,12 +141,12 @@ img {
   margin: 5px;
   width: 120px;
   height: 45px;
-  color: rgb(253, 195, 255);
+  color: rgb(254, 228, 255);
   border-radius: 15px;
 }
 
 .btn:hover {
-  background-color: #ff84a9;
+  background-color: #f3467a;
 }
 
 .export {
