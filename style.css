@@ -96,7 +96,7 @@ img {
 
 .enter {
   position: absolute;
-  top: 50%;
+  top: 28%;
   transform: translateY(-50%);
 }
 
