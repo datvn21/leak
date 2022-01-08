@@ -240,6 +240,11 @@ img {
     position: initial;
     border-radius: 0px 0px 20px 20px;
     border: none;
+    background-color: #ffffff;
+  }
+  .tool .logo{
+    object-fit:scale-down;
+    transform: scale(1.5);
   }
   .export {
     margin-top: 30px;
