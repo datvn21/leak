@@ -254,6 +254,15 @@ img {
   .save {
     right: 15%;
   }
+  .enter{
+    top: 30%;
+  }
+}
+@media screen and (max-width: 480px) {
+  .tool .logo{
+    object-fit:scale-down;
+    transform: scale(1.5);
+  }
 }
 @media screen and (max-width: 480px) {
   .tool{
