@@ -99,11 +99,7 @@ function get(id) {
   document.getElementById("load").style.cssText =
     "animation-name: load;animation-duration: 0.5s;";
   jQuery
-    .getJSON(
-      "https://raw.githubusercontent.com/datvn21/leak/main/json%20demo/" +
-        String(id) +
-        ".json"
-    )
+    .getJSON("/json/" + String(id) + ".json")
     .then((data) => {
       console.log(data.questions);
       console.log("Size of Exam: " + data.questions.length + " questions");
