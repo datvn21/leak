@@ -1,0 +1,2405 @@
+{
+  "id": 13156,
+  "questions": [
+    {
+      "id": 227331,
+      "order": 1,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Trong Triết học, những thuộc tính cơ bản, vốn có của sự vật và hiện tượng, tiêu biểu cho sự vật hiện tượng đó, phân biệt nó với các sự vật hiện tượng khác là khái niệm về</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852535,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">chất.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852534,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">lượng.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852514,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">độ.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852512,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">điểm nút.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": true
+    },
+    {
+      "id": 227352,
+      "order": 2,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Giới hạn mà trong đó, giữa chất và lượng thống nhất với nhau làm cho sự vật vẫn còn là nó, được gọi là</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852511,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">điểm khởi đầu.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852510,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">điểm nút.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852509,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">điểm nhảy vọt.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852508,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">độ.</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227353,
+      "order": 3,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Cơ sở để phân biệt sự vật, hiện tượng này với sự vật, hiện tượng khác là dựa vào yếu tố nào dưới đây?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852507,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Độ.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852506,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Lượng.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852513,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Điểm nút.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852505,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chất.</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227354,
+      "order": 4,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Trong Triết học, độ của sự vật và hiện tượng là giới hạn mà trong đó</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852503,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">sự biến đổi về lượng làm thay đổi về chất của sự vật</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852502,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">sự biến đổi về lượng chưa làm thay đổi về chất.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852501,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">chưa có sự biến đổi nào xảy ra</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852500,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">sự biến đổi của chất diễn ra nhanh chóng</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227355,
+      "order": 5,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nhận định nào dưới đây đúng khi bàn về mối quan hệ giữa sự biến đổi về lượng và sự biến đổi về chất trong Triết học?</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852499,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Lượng đổi làm chất đổi.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852498,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Lượng đổi nhanh hơn chất.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852497,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chất và lượng đổi cùng lúc.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852504,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chất đổi trước lượng đổi sau.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227356,
+      "order": 6,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Trong Triết học, chất mới ra đời lại bao hàm</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852515,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">một lượng mới tương ứng</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852524,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">một hình thức mới.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852516,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">một diện mạo mới tương ứng</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852532,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">một trình độ mới tương ứng.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227357,
+      "order": 7,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Ông H chuyên làm nghề đúc đồng, trải qua hàng chục năm trong nghề, ông rút ra kinh nghiệm về nấu đồng đó là khi đưa đồng vào đun, phải duy trì nhiệt độ cho đến khi đồng đạt đến nhiệt độ 1083c khi đó đồng mới chuyển từ rắn sang lỏng, ở nhiệt độ đó chúng ta mới đưa đồng vào khuôn để đúc. Hãy chỉ ra điểm nút trong đoạn trích trên?</span></p></div>",
+      "type": "SIG",
+      "level": "VD",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852531,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Trải qua hàng chục năm trong nghề.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852530,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Phải duy trì nhiệt độ.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852529,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chuyến từ rắn sang lỏng.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852528,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nhiệt độ đạt 1083 độ C.</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227358,
+      "order": 8,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nhờ có sự kiên trì, nhẫn nại trong tập luyện mà vận động viên V đã đạt huy chương vàng Á vận hội, đứng trong hàng ngũ vận động viên bơi lội xuất sắc của thế giới. </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nhận định trên phản ánh sự biến đổi nào sau đây trong Triết học?</span></p></div>",
+      "type": "SIG",
+      "level": "VD",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852527,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chất mới sinh ra lượng mới.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852526,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Lượng mới sinh ra chất mới.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852533,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chất đổi làm lượng đổi.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852525,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Lượng đổi làm chất đổi.</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227359,
+      "order": 9,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Xây dựng nền văn hóa tiên tiến, đậm đà bản sắc dân tộc ở nước ta là biểu hiện của phủ định?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852523,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">tất yếu.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852522,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">siêu hình.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852521,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">biện chứng.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852520,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">khách quan.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227360,
+      "order": 10,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Câu nào dưới đây là biểu hiện của phủ định siêu hình?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852519,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nước chảy đá mòn.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852518,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Con hơn cha là nhà có</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> phúc</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852517,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Con nhà tông không giống lông cũng giống cánh</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852416,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Dốt đến đâu học lâu cũng biết</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227361,
+      "order": 11,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Sự vận động đi lên, cái mới ra đời thay thế cái cũ nhưng ở trình độ cao hơn, hoàn thiện hơn, đó là</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852536,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">khuynh hướng phát triển của sự vật và hiện tượng</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852557,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">cách thức phát triển của sự vật và hiện tượng</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852558,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">hình thức phát triển của sự vật và hiện tượng</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852559,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">nguồn gốc vận động, phát triển của sự vật và hiện tượng</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227362,
+      "order": 12,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Khuynh hướng phát triển của sự vật và hiện tượng là</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852560,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">sự đấu tranh giữa các mặt đối lập</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852561,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">quá trình lượng đổi dãn đễn chất đổi</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852562,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">cái mới ra đời thay thế cái cũ</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852563,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">xóa bỏ sự tồn tại của sự vật, hiện tượng.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227363,
+      "order": 13,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Phủ định biện chứng giữ vai trò như thế nào đối với sự phát triển của sự vật và hiện tượng?</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852564,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Là nguồn gốc, phương thức.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852565,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tạo ra những động lực, tiềm năng.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852566,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Là mục đích, cách thức.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852567,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tạo ra những điều kiện, tiền đề.</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227364,
+      "order": 14,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Khẳng định nào dưới đây là đúng khi nói về phủ định biện chứng?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852568,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Sen tàn mùa hạ</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852569,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đổ hóa chất xuống hồ làm cá chết</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852570,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Cây lúa trổ bông</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852571,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Bão làm đổ cây</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227365,
+      "order": 15,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Khái niệm dùng để chỉ sự ra đời của sự vật, hiện tượng mới từ sự phát triển của bản thân vật hiện tượng cũ, trong triết học gọi là phủ định</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852572,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">biện chứng.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852573,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">khách quan.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852556,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">chủ quan.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852555,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">siêu hình.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227366,
+      "order": 16,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Một cây bắp sau khi đã tích lũy đủ chất dinh dưỡng và đủ lớn (tức là đã đủ lượng) có được cờ bắp, râu bắp. Khi đó, cần có sự thụ phấn giữa hạt phận và cơ quan sinh sản cái thì nó sẽ hình thành nên hạt bắp. Quá trình thụ phấn chính là bước nhảy của cây bắp. Kể từ khi còn là hạt bắp: khi hạt nảy mầm, nó phủ định lại hạt chưa nảy mầm, cây bắp phủ định hạt bắp đã nảy mầm, trái bắp phủ định cây bắp... Xét về mặt triết học đâu là sản phẩm phủ định của phủ định</span></p></div>",
+      "type": "SIG",
+      "level": "VD",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852554,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Cây bắp.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852544,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Quá trình thụ phấn</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852537,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Hạt bắp</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852538,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Hạt nảy mầm.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227367,
+      "order": 17,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nhận thức cảm tính được tạo nên do sự tiếp xúc</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852539,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">gần gũi với các sự vật, hiện tượng</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852540,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">trực tiếp với các sự vật, hiện tượng</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852541,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">trực diện với các sự vật, hiện tượng</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852542,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">gián tiếp với các sự vật, hiện tượng</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227368,
+      "order": 18,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Cơ sở để phân biệt nhận thức cảm tính và nhận thức lí tính của con người là nhận thức cảm tính có sử dụng</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852543,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">các giác quan.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852545,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">các thao tác tư duy.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852553,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">sức lao động.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852546,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">công cụ lao động.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227351,
+      "order": 19,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Theo quan điểm của chủ nghĩa Mác – Lênin, nhận thức bắt nguồn từ đâu?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852547,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Kinh nghiệm.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852548,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Yếu tố bẩm sinh.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852549,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thực tiễn.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852550,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thần linh mách bảo.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227350,
+      "order": 20,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Theo quan điểm của chủ nghĩa duy vật biện chứng,</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> quá trình phản ánh sự vật, hiện tượng của thế giới khách quan vào bộ óc con người, để tạo nên những hiểu biết về chúng là nội dung của khái niệm nào dưới đây</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852551,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thực tiễn</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852552,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nhận thức</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852496,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chất</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852495,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Lượng.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227349,
+      "order": 21,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Câu nào dưới đây thể hiện thực tiễn là cơ sở của nhận thức?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852494,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Ăn cây nào rào cây ấy</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852454,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Con hơn cha, nhà có phúc</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852437,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Trăng quầng trời hạn, trăng tán trời mưa</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852438,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Gieo gió gặt bão</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227339,
+      "order": 22,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Con người quan sát mặt trời, từ đó chế tạo các thiết bị sử dụng năng lượng mặt trời điều này thể hiện vai trò nào dưới đây của thực tiễn đối với nhận thức?</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852439,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Mục đích của nhận thức</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852440,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Động lực của nhận thức</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852441,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Cơ sở của nhận thức</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852442,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tiêu chuẩn của chân lí</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227332,
+      "order": 23,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Những tri thức về thiên văn của người xưa đều được hình thành từ việc quan sát thời tiết, tính toán chu kỳ vận động của mặt trời, điều này thể hiện vai trò nào dưới đây của thực tiễn đối với nhận thức?</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852443,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Mục đích của nhận thức</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852445,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Động lực của nhận thức</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852453,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Cơ sở của nhận thức</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852446,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tiêu chuẩn của chân lí</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227333,
+      "order": 24,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Luôn vận động và đặt ra những yêu cầu mới cho nhận thức là thể hiện vai trò nào dưới đây của thực tiễn?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852447,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Cơ sở của nhận thức</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852448,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Mục đích của nhận thức</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852449,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Động lực của nhận thức</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852450,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tiêu chuẩn của chân lí</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227334,
+      "order": 25,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thực tiễn là động lực của nhận thức vì thực tiễn</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852451,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">luôn cải tạo hiện thực khách quan</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852452,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">thường kiểm nghiệm tính đúng đắn hay sai lầm</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852436,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">thường hoàn thiện những nhận thức chưa đầy đủ</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852444,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">luôn đặt ra những yêu cầu mới</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227335,
+      "order": 26,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Câu nào dưới đây thể hiện thực tiễn là động lực của nhận thức?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852435,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Con vua thì lại làm vua</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852424,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Cái khó ló cái khôn</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852417,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Con hơn cha là nhà có phúc</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852418,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Kiến tha lâu cũng đầy tổ</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227336,
+      "order": 27,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tri thức của con người có thể đúng đắn hoặc sai lầm, do đó cần phải đem những tri thức đó kiểm nghiệm qua</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852419,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">thói quen</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852420,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">tình cảm</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852421,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">hành vi</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852422,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">thực tiễn</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227337,
+      "order": 28,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Bác Hồ từng nói: </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-style:italic\">“Lí luận mà không liên hệ với thực tiễn là lí luận suông”.</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Câu nói trên đề cập đến vai trò nào của thực tiễn?</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852423,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Mục đích của nhận thức</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852425,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tiêu chuẩn của chân lí</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852433,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Cơ sở của nhận thức</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852426,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Động lực của nhận thức</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227338,
+      "order": 29,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Câu nào dưới đây </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold\">không</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> nói về vai trò của thực tiễn đối với nhận thức?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852427,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đi một ngày đàng, học một sang khôn</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852428,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Trăm hay không bằng tay quen</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852429,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Dốt đến đâu học lâu cũng biết</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852430,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Học đi đôi với hành</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227340,
+      "order": 30,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Các tri thức khoa học chỉ có giá trị khi được vận dụng vào thực tiễn, điều này thể hiện, thực tiễn là</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852431,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">động lực của nhận thức</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852432,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">tiêu chuẩn của chân lí</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852434,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">mục đích của nhận thức</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852455,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">cơ sở của nhận thức</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227348,
+      "order": 31,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Để giảm thiểu tỷ lệ chấn thương sọ não trong các vụ tai nạn giao thông, Nhà nước đã ban hành Nghị quyết số 32 ngày 15/9/2007 quy định bắt buộc đội mũ bảo hiểm từ ngày 15/12/2007 đối với người ngồi trên xe mô tô, xe gắn máy. Việc làm của nhà nước đã thể hiện vai trò nào dưới đây của thực tiễn đối với nhận thức?</span></p></div>",
+      "type": "SIG",
+      "level": "VD",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852474,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thực tiễn là động lực của nhận thức.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852456,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thực tiễn là tiêu chuẩn của nhận thức.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852477,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thực tiễn là mục </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">đích</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> của nhận thức.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852478,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thực tiễn là cơ sở của nhận thức.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227341,
+      "order": 32,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Ngay cả những thành tựu mới đây nhất là khám phá và giải mã bản đồ gien người cũng ra đời từ chính thực tiễn, từ mục đích chữa trị những căn bệnh nan y và từ mục đích tìm hiểu,</span><a style=\"color:#000000\" href=\"https://hocluat.vn/wiki/khai-thac/\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold; text-decoration:underline\">khai thác</span></a><span style=\"font-family:'Times New Roman'; font-size:13pt\">những tiềm năng bí ẩn của con người…có thể nói, suy cho cùng, không có một lĩnh vực tri thức nào mà lại không xuất phát từ một mục đích nào đó của thực tiễn, không nhằm vào việc phục vụ, hướng dẫn thực tiễn. Đoạn trích trên </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-style:normal\">đề cập đến vai trò nào của thực tiễn đối với nhận thức?</span></p></div>",
+      "type": "SIG",
+      "level": "VD",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852479,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thực tiễn là cơ sở của nhận thức.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852480,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thực tiễn là tiêu chuẩn của chân lý.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852481,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thực tiễn</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">là mục đích của nhận thức.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852482,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thực tiễn là động lực của nhận thức.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227342,
+      "order": 33,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Yếu tố nào dưới đây là giá trị tinh thần mà con người sáng tạo nên?</span></p></div>",
+      "type": "SIG",
+      "level": "VD",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852483,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Máy móc phục vụ trong nông nghiệp</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852485,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Phương tiện sinh hoạt</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852493,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Áo dài truyến thống của phụ nữ Việt Nam</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852486,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nhà ở</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227343,
+      "order": 34,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Sản xuất của cải vật chất là đặc trưng riêng chỉ có ở con người. Đó là quá trình lao động có mục đích và không ngừng.</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852487,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Sáng tạo của con người</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852488,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thay đổi con người</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852489,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tồn tại của con người</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852490,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Hoàn thiện con người</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227344,
+      "order": 35,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Yếu tố nào dưới đây là giá trị vật chất do con người tạo ra?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852491,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Bình Ngô đại cáo.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852492,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Động Thiên Đường.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852476,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tư liệu sinh hoạt.</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852484,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Động Phong Nha – Kẻ Bàng</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227345,
+      "order": 36,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Con người là chủ thể của lịch sử nên con người cần phải được</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852475,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Yêu thương</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852464,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chăm sóc</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852457,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Quan tâm</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852458,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tôn trọng</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227346,
+      "order": 37,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Yếu tố nào dưới đây </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold\">không</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> đe dọa cuộc sống con người?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852459,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tệ nạn xã hội</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852460,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Mù chữ</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852461,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chiến tranh</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852462,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Lao động</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227347,
+      "order": 38,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nhu cầu về cuộc sống tốt đẹp hơn là động lực thúc đẩy con người không ngừng đấu tranh để</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852463,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Xây dựng văn hóa</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852465,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Xây dựng xã hội</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852473,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Cải tạo con người</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852466,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Cải tạo xã hội</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227369,
+      "order": 39,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Con người là chủ thể của lịch sử nên con người cần phải được</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852467,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">chú trọng</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852468,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">tôn trọng</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852469,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">yêu thương</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852470,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">quan tâm</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227370,
+      "order": 40,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Biểu hiện nào dưới đây là đặc trưng riêng chỉ có ở con người?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 852471,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thích nghi với môi trường tự nhiên</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852472,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Sản xuất của cải vật chất</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852574,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Có phản xạ với môi trường tự nhiên</span></p><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 852575,
+          "content": "<div><p style=\"margin:5pt 0pt 10.5pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Duy trì nòi giống</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    }
+  ]
+}

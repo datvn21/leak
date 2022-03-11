@@ -2,19 +2,6 @@ console.log("Yuuta");
 let id = 0;
 let min = 140;
 
-function stringToHTML(str) {
-  //console.log(str);
-  var parser = new DOMParser();
-  var doc = parser.parseFromString(str, "text/html");
-  //console.log(doc);
-  return doc.body;
-}
-
-function HTMLtoOnlyText(html) {
-  //console.log(html.childNodes[0].childNodes[0].childNodes);
-  return html.textContent;
-}
-
 function ABCD(num) {
   if (num == 0) {
     tag = "A";
@@ -96,27 +83,16 @@ function save() {
   }, 1500);
 }
 
-function run() {
-  console.log(min);
-  if (document.getElementById("min").value !== "") {
-    min = parseInt(document.getElementById("min").value, 10);
-  }
-  console.log(min);
-  for (
-    id = parseInt(document.getElementById("name").value, 10) + min;
-    id < parseInt(document.getElementById("name").value, 10) + 150;
-    id++
-  ) {
-    try {
-      get(id);
-    } catch (error) {
-      console.log(id + " NOT FOUND");
-    }
-  }
-}
+const stringToHTML = (str) => {
+  let parser = new DOMParser();
+  let doc = parser.parseFromString(str, "text/html");
+  return doc.body;
+};
+
 const stringNameTest = () => {
   get(document.getElementById("name").value);
 };
+
 function get(id) {
   resetOutput("questions");
   //console.log("Waitting...");
@@ -124,12 +100,12 @@ function get(id) {
     "animation-name: load;animation-duration: 0.5s;";
   jQuery
     .getJSON(
-      "https://raw.githubusercontent.com/datvn21/lmschecker/main/json%20demo/" +
+      "https://raw.githubusercontent.com/datvn21/leak/main/json%20demo/" +
         String(id) +
         ".json"
     )
     .then((data) => {
-      //console.log(data);
+      console.log(data.questions);
       console.log("Size of Exam: " + data.questions.length + " questions");
       var width = $(window).width();
       if (width <= 600) {
@@ -141,120 +117,27 @@ function get(id) {
       setTimeout(function () {
         document.getElementById("load").style.display = "none";
       }, 500);
-      for (let i = 0; i < data.questions.length; i++) {
-        let question = data.questions[i].content;
-        html = stringToHTML(question);
-        childeNodeHTML = html.childNodes[0].childNodes[0].childNodes;
-        var profile = new Image();
-        console.log(childeNodeHTML);
-        for (let numm = 0; numm < childeNodeHTML.length; numm++) {
-          if (childeNodeHTML[numm].localName == "img") {
-            chhildd = childeNodeHTML[numm];
-            profile.src = chhildd.attributes[0].nodeValue;
-          }
-        }
-        question =
-          String(i + 1) + ". " + String(HTMLtoOnlyText(stringToHTML(question)));
-        //console.log(question);
+
+      for (const [index, question] of data.questions.entries()) {
+        //console.log(index);
         let qeDiv = document.createElement("div");
         qeDiv.classList.add("questions");
-        qeDiv.setAttribute("id", "questions" + String(i));
+        qeDiv.setAttribute("id", "questions" + String(index));
         let addQeDiv = document.getElementById("export");
-        let qe = document.createTextNode(question);
-        qeDiv.appendChild(qe);
-        qeDiv.appendChild(profile);
+        qeDiv.appendChild(stringToHTML(question.content).querySelector("div"));
         addQeDiv.appendChild(qeDiv);
-        try {
-          for (let z = 0; z < data.questions[i].questions.length; z++) {
-            let questionChild = data.questions[i].questions[z].content;
-            questionChild =
-              String(z + 1) +
-              ". " +
-              String(HTMLtoOnlyText(stringToHTML(questionChild))).replace(
-                "/&nbsp;/g",
-                ""
-              );
-            //console.log(questionChild);
-            let qeChildDiv = document.createElement("div");
-            qeChildDiv.classList.add("questions-child");
-            qeChildDiv.setAttribute(
-              "id",
-              "questions" + String(i) + "questions-child" + String(z)
-            );
-            let addQeChildDiv = document.getElementById(
-              "questions" + String(i)
-            );
-            let qeChild = document.createTextNode(questionChild);
-            qeChildDiv.appendChild(qeChild);
-            addQeChildDiv.appendChild(qeChildDiv);
-            for (
-              let j = 0;
-              j < data.questions[i].questions[z].answers.length;
-              j++
-            ) {
-              let answer = data.questions[i].questions[z].answers[j].content;
-              answer =
-                ABCD(j) +
-                ". " +
-                String(HTMLtoOnlyText(stringToHTML(answer))).replace(
-                  "/&nbsp;/g",
-                  ""
-                );
-              //console.log(answer);
-              let ansDiv = document.createElement("li");
-              if (data.questions[i].questions[z].answers[j].trueAnswer == 1) {
-                ansDiv.classList.add("answers-right");
-              } else {
-                ansDiv.classList.add("answers");
-              }
-              ansDiv.setAttribute("id", "answers");
-              let addAnsDiv = document.getElementById(
-                "questions" + String(i) + "questions-child" + String(z)
-              );
-              let ans = document.createTextNode(answer);
-              ansDiv.appendChild(ans);
-              addAnsDiv.appendChild(ansDiv);
-            }
-          }
-        } catch (error) {
-          for (let j = 0; j < data.questions[i].answers.length; j++) {
-            let answer = data.questions[i].answers[j].content;
-            html = stringToHTML(answer);
-            childeNodeHTML = html.childNodes[0].childNodes[0].childNodes;
-            var profile = new Image();
-            console.log(childeNodeHTML);
-            for (let numm = 0; numm < childeNodeHTML.length; numm++) {
-              if (childeNodeHTML[numm].localName == "img") {
-                chhildd = childeNodeHTML[numm];
-                profile.src = chhildd.attributes[0].nodeValue;
-              }
-            }
-            answer =
-              ABCD(j) +
-              ". " +
-              String(HTMLtoOnlyText(stringToHTML(answer)))
-                .replaceAll("&nbsp;", "")
-                .replace("/&nbsp;/g", "");
-            //console.log(answer);
-
-            let ansDiv = document.createElement("li");
-            if (data.questions[i].answers[j].trueAnswer == 1) {
-              ansDiv.classList.add("answers-right");
-            } else {
-              ansDiv.classList.add("answers");
-            }
-            ansDiv.setAttribute("id", "answers");
-            let addAnsDiv = document.getElementById("questions" + String(i));
-            let ans = document.createTextNode(answer);
-            ansDiv.appendChild(ans);
-            ansDiv.appendChild(profile);
-            addAnsDiv.appendChild(ansDiv);
-          }
+        for (const [i, answer] of question.answers.entries()) {
+          //console.log(stringToHTML(question.content).querySelector("div"));
+          let anDiv = document.createElement("div");
+          anDiv.classList.add("answers");
+          anDiv.setAttribute("id", "answers");
+          let addAnDiv = document.getElementById("questions" + String(index));
+          anDiv.appendChild(stringToHTML(answer.content).querySelector("div"));
+          addAnDiv.appendChild(anDiv);
         }
       }
     })
     .catch((error) => {
-      //console.error(error);
       let id = parseInt(document.getElementById("name").value, 10) + 151;
       console.log(id + " NOT FOUND");
     });

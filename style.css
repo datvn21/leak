@@ -56,9 +56,11 @@ body {
 @keyframes load {
   from {
     transform: rotate(0deg);
+    overflow: hidden;
   }
   to {
     transform: rotate(360deg);
+    overflow: hidden;
   }
 }
 
@@ -126,7 +128,6 @@ img {
 .note{
   font-weight: bold;
 }
-.enter{}
 .enter input {
   padding: 2px;
   text-align: center;

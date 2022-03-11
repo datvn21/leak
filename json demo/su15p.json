@@ -1,0 +1,605 @@
+{
+  "id": 13231,
+  "questions": [
+    {
+      "id": 229148,
+      "order": 1,
+      "score": 1.0,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nội dung nào </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-style:italic\">không </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">phản ánh đúng mục đích tiến hành các cuộc phát kiến địa lý của các nước Tây Âu ở thế kỉ XV - XVI?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 859258,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tìm nguồn nguyên liệu, vàng bạc từ các nước phương Đông.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859257,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tìm thị trường tiêu thụ hàng hóa ở các nước phương Đông.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859256,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tìm con đường giao lưu buôn bán với các nước phương Đông.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859255,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Khám phá những vùng đất mới ở châu Phi và châu Mĩ.</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": true
+    },
+    {
+      "id": 229149,
+      "order": 2,
+      "score": 1.0,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nội dung nào dưới đây là một trong những điều kiện của các cuộc phát kiến địa lí?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 859254,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Do sự phát triển của nền kinh tế hàng hoá.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859253,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Sự gia tăng của dân số</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859252,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Sự phát triển của nền kinh tế nông nghiệp.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859251,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Con người đã có hiểu biết nhiều về đại dương, hình dạng trái đất.</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 229150,
+      "order": 3,
+      "score": 1.0,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nhà thám hiểm nào đã vòng qua cực Nam của châu Phi đến mũi Hảo Vọng vào năm 1487?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 859250,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> C.</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Cô-lôm-bô.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859229,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Va-xcô đơ Ga-ma.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859259,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Ph. Ma-gien-lan.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859260,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đi-a-xơ.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 229151,
+      "order": 4,
+      "score": 1.0,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Ma-gien-lan nổi tiếng thế giới với chuyến thám hiểm</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 859261,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> lênh đênh trên Đại Tây Dương.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859262,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">đi vòng quanh thế giớ</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">i đầu tiên bằng đường biển</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859263,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">đi vòng qua cực Nam của châu Phi.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859264,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">đến bờ Tây Nam của Ấn Độ.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 229152,
+      "order": 5,
+      "score": 1.0,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nội dung nào không phải là hệ quả của những cuộc phát kiến địa lí?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 859265,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thị trường thế giới được mở rộng, hàng hải quốc tế phát triển.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859266,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tìm ra những con đường mới, vùng đất mới, dân tộc mới.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859249,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thúc đẩy quá trình khủng hoảng, tan rã của chế độ phong kiến.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859248,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thúc đẩy quá trình toàn cầu hoá diễn ra mạnh mẽ.</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 229153,
+      "order": 6,
+      "score": 1.0,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Ý nào sau đây giải thích không đúng cho luận điểm: Các cuộc phát kiến địa lí đã mở ra một trang mới trong tiến trình phát triển của lịch sử loài người?</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 859247,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Khẳng định Trái Đất hình cầu, mở ra những con đường mới.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859237,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thị trường thế giới được mở rộng, hàng hải phát triển.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859230,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đánh dấu mốc chấm dứt hoàn toàn của quan hệ phong kiến.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859231,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tìm ra những dân tộc mới, tăng cường giao lưu văn hóa giữa các châu lục.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 229154,
+      "order": 7,
+      "score": 1.0,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nguyên nhân trực tiếp dẫn đến các cuộc phát kiến địa lí là gì?</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 859232,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Con đường giao thương từ Tây Âu qua Tây Á sang phương Đông bị người A-rập độc chiếm</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859233,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Khoa học – kĩ thuật, đặc biệt là ngành hàng hải, có những tiến bộ đáng kể,</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859234,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thương nhân châu Âu có đủ kinh nghiệm cho các chuyến đi xa</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859235,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Do quyết định của các triều đình phong kiến Tây Âu</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 229155,
+      "order": 8,
+      "score": 1.0,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tiền đề quan trọng nhất để các cuộc phát kiến địa lí có thể thực hiện được là gì?</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 859236,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Sự tài trợ về tài chính của chính phủ các nước Tây Âu</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859238,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Ước mơ chinh phục tự nhiên, lòng ham hiểu biết của con người</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859246,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Khoa học – kĩ thuật, đặc biệt ngành hàng hải, có những tiến bộ đáng kể</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859239,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thương nhân châu Âu tích lũy được nhiều kinh nghiệm trong các cuộc hành trình sang phương Đông</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 229156,
+      "order": 9,
+      "score": 1.0,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Va-xcô đơ Ga-ma khi chỉ huy đoàn thuyền Bồ Đào Nha rời cảng Li-xbon là để</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 859240,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">đi tìm xứ sở hương liệu và vàng bạc phương Đông.       </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859241,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">đi vòng quanh thế giới bằng đường biển.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859242,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">đến một số đảo thuộc vùng biển Ca-ri-bê.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859243,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">thám hiểm cực Nam của châu Phi.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 229157,
+      "order": 10,
+      "score": 1.0,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Hướng đi của C. Côlômbô có điểm gì khác biệt so với các nhà phát kiến địa lí khác?</span></p></div>",
+      "type": "SIG",
+      "level": "VD",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 859244,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đi xuống hướng Nam</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859245,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đi sang hướng Đông</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859267,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đi về hướng Tây</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 859268,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Ngược lên hướng Bắc</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    }
+  ]
+}

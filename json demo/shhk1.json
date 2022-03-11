@@ -1,0 +1,2405 @@
+{
+  "id": 14269,
+  "questions": [
+    {
+      "id": 252679,
+      "order": 1,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">Trong các cấp tổ chức sống dưới đây, cấp nào là lớn nhất ?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945699,
+          "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Tế bào</span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945698,
+          "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Quần xã</span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945678,
+          "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Quần thể</span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945676,
+          "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Bào quan</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": true
+    },
+    {
+      "id": 252700,
+      "order": 2,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Những đặc điểm chung của các cấp tổ chức sống:</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">1. Tổ chức theo nguyên tắc thứ bậc.</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">2. Chuyển hóa vật chất và năng lượng, sinh sản, sinh trưởng và phát triển.</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">3. Cảm ứng, khả năng tự điều chỉnh, khả năng tiến hóa.</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">4. Hệ thống mở và tự điều chỉnh.</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">5. Thế giới sống liên tục tiến hóa.</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Có bao nhiêu đáp án đúng?</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945675,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> 3.</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945674,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> 2.</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945673,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> 4.</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945672,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> 5.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252701,
+      "order": 3,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nước có vai trò  sau đây ?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945671,
+          "content": "<div><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Dung môi hoà tan  của nhiều chất </span></p><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945670,
+          "content": "<div><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Thành  phần cấu tạo  bắt buộc của tế bào </span></p><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945677,
+          "content": "<div><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Là môi trường xảy ra các phản ứng  sinh hoá  của cơ thể </span></p><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945669,
+          "content": "<div><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Cả 3 vai trò nêu trên </span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252702,
+      "order": 4,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">ADN được cấu tạo từ các đơn phân là</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945667,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> axit amin </span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945666,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> nucleotit </span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945665,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> glucozo </span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945664,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> axit béo</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252703,
+      "order": 5,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Loại đường  nào sau  đây  không cùng nhóm  với  những  chất còn lại?</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945663,
+          "content": "<div><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Pentôzơ </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">                                </span></p><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945662,
+          "content": "<div><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Mantôzơ</span></p><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945661,
+          "content": "<div><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Glucôzơ </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">                                     </span></p><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945668,
+          "content": "<div><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Fructôzơ  </span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252704,
+      "order": 6,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Giữa các nuclêôtit trên 2  mạch  của phân tử ADN có :</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945679,
+          "content": "<div><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> G liên kết  với X  bằng 2 liên kết  hiđrô</span></p><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945688,
+          "content": "<div><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> A liên kết  với T  bằng 3 liên kết  hiđrô</span></p><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945680,
+          "content": "<div><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Các </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">liên </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">kết hidrô theo nguyên tắc bổ sung </span></p><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945696,
+          "content": "<div><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">  Cả a,b,c đều đúng </span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252705,
+      "order": 7,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đường và mỡ cùng đảm nhiệm một chức năng, đó là</span></p></div>",
+      "type": "SIG",
+      "level": "VD",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945695,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">dự </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">trữ năng lượng cho tế bào và cơ thể.</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945694,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">cấu thành nên các bào quan trong tế bào.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945693,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">xúc tác cho các phản ứng sinh hóa trong tế bào.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945692,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">vận chuyển các chất từ nơi này đến nơi khác.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252706,
+      "order": 8,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">Sinh vật nhân sơ bao gồm các nhóm:</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945691,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Vi khuẩn và virut</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945690,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Vi khuẩn và động vật nguyên sinh</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945697,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Vi khuẩn và vi khuẩn cổ</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945689,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Vi khuẩn và nấm đơn bào</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252707,
+      "order": 9,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Trong vùng nhân của vi khuẩn có chứa</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945687,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> riboxom</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945686,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> ADN</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945685,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> cacbohidrat</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945684,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> màng nhân</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252708,
+      "order": 10,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Cấu trúc nào sau đây không có trong tế bào vi khuẩn?</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945683,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Màng sinh chất </span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945682,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Vỏ nhầy</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945681,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Lưới nội chất </span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945580,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Roi</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252709,
+      "order": 11,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">Thành phần chính cấu tạo màng sinh chất là:</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945700,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Phôtpholipit </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">và protein</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945721,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Cacbohidrat</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945722,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Glicoprotein</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945723,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Colesteron</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252710,
+      "order": 12,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">Chức năng của lục lạp là</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945724,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Quang hợp</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945725,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Bảo vệ lớp ngoài lá</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945726,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Kết hợp với nước và muối khoáng tạo cacbonhiđrat</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945727,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> A, B, C đúng</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252711,
+      "order": 13,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">Khung xương tế bào được tạo thành từ</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945728,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Các vi ống theo công thức 9+2.</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945729,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">9 bộ ba vì ông xếp thành vòng.</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945730,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">9 bộ hai vi xếp thành vòng</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945731,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Vi ống</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">, vi sợi, sợi trung gian.</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252712,
+      "order": 14,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">Trong tế bào, protein được tổng hợp ở</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945732,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Nhân tế bào.</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945733,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Ribôxôm.</span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945734,
+          "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Bộ máy gôngi.</span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945735,
+          "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Ti thể.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252713,
+      "order": 15,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">Nếu xem tế bào là một thành phố hoạt động, thì nhân là:</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945736,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Trung tâm điều khiển</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945737,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Hàng rào kiểm soát</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945720,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Nhà máy tạo nguyên liệu</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945719,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Nhà máy tạo năng lượng</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252714,
+      "order": 16,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">Tế bào của cùng 1 cơ thể có thể nhận biết nhau và nhận biết các tế bào “lạ” là nhờ?</span></p></div>",
+      "type": "SIG",
+      "level": "VD",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945718,
+          "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Các protein thụ thể</span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945708,
+          "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> “Dấu chuẩn” là glicoprotein</span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945701,
+          "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Mô hình khảm động</span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945702,
+          "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Roi và lông tiêm trên màng</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252715,
+      "order": 17,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">Điểm giống nhau giữa lục lạp và ti thể là gì?</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">1. Có màng kép bao bọc</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">2. Trong cấu trúc có chứa ADN, ARN, ribôxôm</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">3. Tham gia chuyển hóa năng lượng trong tế bào</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">4. Số lượng phụ thuộc vào loại tế bào và điều kiện môi trường</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">5. Có trong tế bào động vật và thực vật</span></p></div>",
+      "type": "SIG",
+      "level": "VD",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945703,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> 1, 2, 3, 5</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945704,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> 1, 3, 4, 5</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945705,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> 1, 2, 3, 4</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945706,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> 2, 3, 4, 5</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252716,
+      "order": 18,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">Các tế bào sau trong cơ thể người, tế bào có nhiều lizôxôm nhất là tế bào</span></p></div>",
+      "type": "SIG",
+      "level": "VDC",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945707,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Hồng cầu.</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945709,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Bạch cầu.</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945717,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thần kinh.</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945710,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Cơ.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252699,
+      "order": 19,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nước được vận chuyển qua màng tế bào nhờ</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945711,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Sự biến dạng của màng tế bào</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945712,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Bơm protein và tiêu tốn ATP</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945713,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Sự khuếch tán của các ion qua màng</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945714,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Kênh protein đặc biệt là “aquaporin”</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252698,
+      "order": 20,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Môi trường đẳng trương là môi trường có nồng độ chất tan bên ngoài tế bào</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945715,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Cao hơn nồng độ chất tan trong tế bào</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945716,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Bằng nồng độ chất tan trong tế bào</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945660,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Thấp hơn nồng độ chất tan trong tế bào</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945659,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Luôn ổn định</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252697,
+      "order": 21,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">Các bơm đặc hiệu trong phương thức vận chuyển chủ động các chất có bản chất là</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945658,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Polisaccarit.</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945618,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Prôtêin</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945601,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Lipit.</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945602,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">ARN</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252687,
+      "order": 22,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Cho các phương thức vận chuyển các chất sau:</span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">(1) Khuếch tán trực tiếp qua lớp kép photpholipit</span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">(2) Khuếch tán qua kênh protein xuyên màng</span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">(3) Nhờ sự biến dạng của màng tế bào</span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">(4) Nhờ kênh protein đặc hiệu và tiêu hao ATP</span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Trong các phương thức trên, có mấy phương thức để đưa chất tan vào trong màng tế bào?</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945603,
+          "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> 1 </span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945604,
+          "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> 2 </span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945605,
+          "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> 3 </span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945606,
+          "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> 4</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252680,
+      "order": 23,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">Khi ta uống thuốc, các chất trong thuốc đi vào tế bào bằng phương thức nào?</span></p></div>",
+      "type": "SIG",
+      "level": "VD",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945607,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đều đi vào thụ động.</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945609,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đều đi vào chủ động</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945617,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đi vào cả bằng cách chủ động và thụ động.</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945610,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chỉ đi vào bằng cách nhập bào.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252681,
+      "order": 24,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">Trong môi trường nhược trương, tế bào có nhiều khả năng sẽ bị vỡ ra là</span></p></div>",
+      "type": "SIG",
+      "level": "VD",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945611,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> t</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">ế bào hồng cầu</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945612,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> tế bào nấm men</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945613,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> tế bào thực vật</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945614,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> tế bào vi khuẩn</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252682,
+      "order": 25,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Cho các hoạt động chuyển hóa sau:</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">(1) Hấp thụ và tiêu hóa thức ăn</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">(2) Dẫn truyền xung thần kinh</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">(3) Bài tiết chất độc hại</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">(4) Hô hấp</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Có mấy hoạt động cần sự tham gia của vận chuyển chủ động?</span></p></div>",
+      "type": "SIG",
+      "level": "VDC",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945615,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> 1 </span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945616,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> 2 </span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945600,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> 3</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945608,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> 4</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252683,
+      "order": 26,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">ATP được cấu tạo từ 3 thành phần là</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945599,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Bazo nito adenozin, đường ribozo, 2 nhóm photphat</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945588,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Bazo nito adenozin, đường deoxiribozo, 3 nhóm photphat</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945581,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Bazo nito adenin, đường ribozo, 3 nhóm photphat</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945582,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Bazo nito adenin, đường deoxiribozo, 1 nhóm photphat</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252684,
+      "order": 27,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Các trạng thái tồn tại của năng lượng là</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945583,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thế năng</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945584,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Động năng</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945585,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Quang năng</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945586,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Cả thế năng và động năng</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252685,
+      "order": 28,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Hoạt động nào sau đây của tế bào KHÔNG tiêu tốn năng lượng ATP?</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945587,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Vận chuyển chủ động</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945589,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Vận chuyển thụ động</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945597,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tổng hợp các chất</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945590,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Sinh công cơ học.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252686,
+      "order": 29,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">ATP là một hợp chất cao năng, năng lượng của ATP tích lũy chủ yếu ở</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945591,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Cả 3 nhóm photphat</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945592,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> 2 liên kết photphat gần phân tử đường</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945593,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">2 liên kết giữa 2 nhóm photphat ở ngoài cùng</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945594,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Chỉ 1 liên kết photphat ngoài cùng</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252688,
+      "order": 30,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Quá trình dị hoá gắn liền với hiện tượng:</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945595,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tích trữ năng lượng</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945596,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Giải phóng năng lượng.</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945598,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tổng hợp chất hữu cơ</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945619,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chuyển động năng thành thế năng</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252696,
+      "order": 31,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Cây xanh có khả năng tổng hợp chất hữu cơ từ CO</span><span style=\"font-family:'Times New Roman'; font-size:8.67pt; vertical-align:sub\">2</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">và H</span><span style=\"font-family:'Times New Roman'; font-size:8.67pt; vertical-align:sub\">2</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">O dưới tác dụng của năng lượng ánh sáng. Quá trình chuyển hóa năng lượng kèm theo quá trình này là</span></p></div>",
+      "type": "SIG",
+      "level": "VD",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945638,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Chuyển hóa từ hóa năng sang quang năng</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945620,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Chuyển hóa từ quang năng </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">sang hóa năng</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945641,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Chuyển hóa từ nhiệt năng sang quang năng</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945642,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Chuyển hóa từ hóa năng sang nhiệt năng</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252689,
+      "order": 32,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nghiên cứu một số hoạt động sau</span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">(1) Tổng hợp protein</span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">(2) Tế bào thận vận chuyển chủ động ure và glucozo qua màng</span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">(3) Tim co bóp đẩy máu chảy vào động mạch</span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">(4) Vận động viên đang nâng quả tạ</span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">(5) Vận chuyển nước qua màng sinh chất</span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Trong các hoạt động trên, có bao nhiêu hoạt động tiêu tốn nhiều năng lượng ATP?</span></p></div>",
+      "type": "SIG",
+      "level": "VDC",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945643,
+          "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> 2 </span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945644,
+          "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> 3 </span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945645,
+          "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> 4 </span></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945646,
+          "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> 5</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252690,
+      "order": 33,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">Đâu không phải là một trong những yếu tố chính ảnh hưởng đến hoạt tính của enzim ?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945647,
+          "content": "<div><p style=\"background-color:#ffffff; line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Độ pH</span></p><p style=\"background-color:#ffffff; line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945649,
+          "content": "<div><p style=\"background-color:#ffffff; line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nhiệt độ</span></p><p style=\"background-color:#ffffff; line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945657,
+          "content": "<div><p style=\"background-color:#ffffff; line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nồng độ cơ chất</span></p><p style=\"background-color:#ffffff; line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945650,
+          "content": "<div><p style=\"background-color:#ffffff; line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Ánh sáng</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252691,
+      "order": 34,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Enzim có bản chất là</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945651,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> pôlisaccarit </span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945652,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> protein </span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945653,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> monosaccarit </span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945654,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> photpholipit</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252692,
+      "order": 35,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">Enzim được tổng hợp trong tế bào sống để?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945655,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Cấu tạo các đại phân tử hữu cơ</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945656,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Làm nguyên liệu tổng hợp các chất</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945640,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Xúc tác các phản ứng sinh hóa</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945648,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Làm chất trung gian chuyển hóa giữa các quá trình</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252693,
+      "order": 36,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tế bào có thể tự điều chỉnh quá trình chuyển hóa vật chất bằng cách nào?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945639,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Điều khiển hoạt tính của enzim bằng cách tăng nhiệt độ</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945628,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Điều khiển hoạt tính của enzim bằng các chất hoạt hóa hay ức chế</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945621,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Điều khiển hoạt tính của enzim bằng cách giảm nhiệt độ</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945622,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Điều khiển hoạt tính của enzim bằng các chất tham gia phản ứng</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252694,
+      "order": 37,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Enzim liên kết với cơ chất ở</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945623,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> trên khắp bề mặt của enzim</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945624,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">trung tâm hoạt động của enzim</span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945625,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> phần đầu của enzim</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945626,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> phần cuối của enzim</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252695,
+      "order": 38,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Enzim nào sau đây tham gia xúc tác quá trình phân giải protein?</span></p></div>",
+      "type": "SIG",
+      "level": "VD",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945627,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> amilaza </span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945629,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Saccaraza </span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945637,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> pepsin </span></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945630,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> mantaza</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252717,
+      "order": 39,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">Các chất dưới đây được sinh ra trong tế bào sống?</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">(1) saccaraza</span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">;(2) proteaza; (3) nucleaza; (4) lipit; (5) amilaza; (6) saccarozo; (7) protein; (8) axit nuclêic; (9) lipaza; (10) pepsin</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">Những chất nào trong các chất trên là enzim?</span></p></div>",
+      "type": "SIG",
+      "level": "VD",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945631,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">(1), (2), (3), (4), (5)</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945632,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">(1), (6), (7), (8), (9), (10)</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945633,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">(1), (2), (3), (5), (9), (10)</span></p><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945634,
+          "content": "<div><p style=\"background-color:#ffffff; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">(1), (2), (3), (5), (9)</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 252718,
+      "order": 40,
+      "score": 0.25,
+      "content": "<div><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">Câu thành ngữ/tục ngữ nào dưới đây cho ta thấy vai trò của nồng độ enzim đối với quá trình tiêu hoá ?</span></p></div>",
+      "type": "SIG",
+      "level": "VDC",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 945635,
+          "content": "<div><p style=\"background-color:#ffffff; line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Ăn cá nhả xương, ăn đường nuốt chậm</span></p><p style=\"background-color:#ffffff; line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945636,
+          "content": "<div><p style=\"background-color:#ffffff; line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Ăn mắm lắm cơm</span></p><p style=\"background-color:#ffffff; line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945738,
+          "content": "<div><p style=\"background-color:#ffffff; line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tay làm hàm nhai, tay quai miệng trễ</span></p><p style=\"background-color:#ffffff; line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 945739,
+          "content": "<div><p style=\"background-color:#ffffff; line-height:18pt; margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nhai kĩ no lâu</span></p><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; widows:0\"></p><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; widows:0\"></p><p style=\"font-size:13pt; line-height:106%; margin:0pt; orphans:0; widows:0\"></p><p style=\"font-size:11pt; line-height:106%; margin:0pt 0pt 8pt; orphans:0; widows:0\"></p><p style=\"font-size:11pt; line-height:106%; margin:0pt 0pt 8pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    }
+  ]
+}

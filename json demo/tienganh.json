@@ -1,0 +1,2625 @@
+{
+  "id": 13169,
+  "questions": [
+    {
+      "id": 227668,
+      "order": 1,
+      "score": 0.5,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold\">Choose the word whose underlined part is pronounced differently from that of the others</span></p></div>",
+      "type": null,
+      "level": null,
+      "format": "GRO",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": null,
+      "questions": [
+        {
+          "id": 227709,
+          "order": 1,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "type": "SIG",
+          "level": "NB",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853847,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> l</span><span style=\"font-family:'Times New Roman'; font-size:13pt; text-decoration:underline\">oo</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">k                                 </span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853846,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> f</span><span style=\"font-family:'Times New Roman'; font-size:13pt; text-decoration:underline\">oo</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">t                </span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853826,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> b</span><span style=\"font-family:'Times New Roman'; font-size:13pt; text-decoration:underline\">oo</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">k                </span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853824,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> sch</span><span style=\"font-family:'Times New Roman'; font-size:13pt; text-decoration:underline\">oo</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">l</span></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227708,
+          "order": 2,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "type": "SIG",
+          "level": "NB",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853823,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> d</span><span style=\"font-family:'Times New Roman'; font-size:13pt; text-decoration:underline\">i</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">nner</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">          </span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853822,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> dr</span><span style=\"font-family:'Times New Roman'; font-size:13pt; text-decoration:underline\">i</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">nk</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">    </span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853821,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> arr</span><span style=\"font-family:'Times New Roman'; font-size:13pt; text-decoration:underline\">i</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">ve</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">           </span></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853820,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> ch</span><span style=\"font-family:'Times New Roman'; font-size:13pt; text-decoration:underline\">i</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">ldren </span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        }
+      ],
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": true
+    },
+    {
+      "id": 227669,
+      "order": 2,
+      "score": 0.5,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold\">Choose</span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold\"> the word that has stress pattern different from that of the other words.</span></p></div>",
+      "type": null,
+      "level": null,
+      "format": "GRO",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": null,
+      "questions": [
+        {
+          "id": 227707,
+          "order": 1,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "type": "SIG",
+          "level": "NB",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853819,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> career</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">                  </span></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853818,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">background</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">     </span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853825,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> proper</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">                   </span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853817,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> private</span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227706,
+          "order": 2,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "type": "SIG",
+          "level": "NB",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853815,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">education                </span></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853814,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">technology        </span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853813,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">community          </span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853812,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">condition</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        }
+      ],
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227670,
+      "order": 3,
+      "score": 0.75,
+      "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold\">Mark the letter A, B, C, or D on your answer sheet to indicate the underlined part that needs</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold\">correction in each of the following questions.</span></p></div>",
+      "type": null,
+      "level": null,
+      "format": "GRO",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": null,
+      "questions": [
+        {
+          "id": 227705,
+          "order": 1,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">After</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold; text-decoration:underline\">you</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> have finished </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold; text-decoration:underline\">upper secondary school</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">,</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">you can go to college, </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold; text-decoration:underline\">get a job</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> or </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold; text-decoration:underline\">taking part in</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> the army.    </span></p></div>",
+          "type": "SIG",
+          "level": "TH",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853811,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> you</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853810,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> upper secondary school</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853809,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">get a job</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853816,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> taking part in</span></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227704,
+          "order": 2,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">We</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold; text-decoration:underline\">are looking</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">forward </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold; text-decoration:underline\">to visiting</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Hanoi university, </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold; text-decoration:underline\">that</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> we </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold; text-decoration:underline\">used to study</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.</span></p></div>",
+          "type": "SIG",
+          "level": "NB",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853827,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> are looking</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853836,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> to visiting</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853828,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> that</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853844,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> used to study</span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227703,
+          "order": 3,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Lan comes from a </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold; text-decoration:underline\">poor</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> family, so she </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold; text-decoration:underline\">has</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">difficulties </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold; text-decoration:underline\">in</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">her </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold; text-decoration:underline\">educational</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">at school.</span></p></div>",
+          "type": "SIG",
+          "level": "TH",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853843,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> poor</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853842,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> has</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853841,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">in</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853840,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> educational</span></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        }
+      ],
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227671,
+      "order": 4,
+      "score": 3.0,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold\">Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions.</span></p></div>",
+      "type": null,
+      "level": null,
+      "format": "GRO",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": null,
+      "questions": [
+        {
+          "id": 227702,
+          "order": 1,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Our university always …………….every effort to attract young students.</span></p></div>",
+          "type": "SIG",
+          "level": "NB",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853839,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"background-color:#ffffff; font-family:'Times New Roman'; font-size:13pt\">does</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853838,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> makes</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853845,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> takes</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853837,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> puts</span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227701,
+          "order": 2,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">We couldn’t finish building the school</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">…………….</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">a violent storm.</span></p></div>",
+          "type": "SIG",
+          "level": "NB",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853835,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> because</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853834,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> although</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853833,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> in spite of</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853832,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> because of</span></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227700,
+          "order": 3,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">There are a lot of black clouds in the sky. It …………….</span></p></div>",
+          "type": "SIG",
+          "level": "NB",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853831,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> is going to rain</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853830,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> will rain</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853829,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> is raining</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853728,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> rains</span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227679,
+          "order": 4,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">The girl refused to go to the cinema because she……….the film before.</span></p></div>",
+          "type": "SIG",
+          "level": "VD",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853848,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">watched</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853869,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">watch</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853870,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">had watched</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853871,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">has watched</span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227710,
+          "order": 5,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">We are too late. The plane........ten minutes ago.</span></p></div>",
+          "type": "SIG",
+          "level": "TH",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853872,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> had taken</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">off</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853873,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> has taken</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">off</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853874,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> takeoff</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853875,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> took off</span></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227711,
+          "order": 6,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Her parents decided</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">……………. to a big city because they wanted to have a better life</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.</span></p></div>",
+          "type": "SIG",
+          "level": "NB",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853876,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">to move</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853877,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">moved</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853878,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">moving</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853879,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> move</span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227712,
+          "order": 7,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">This club is</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">significantly different</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">…………….other clubs because of the number of members</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.</span></p></div>",
+          "type": "SIG",
+          "level": "NB",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853880,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> of</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853881,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> in</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853882,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> with</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853883,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> from</span></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227713,
+          "order": 8,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">In large classes, children feel that they can’t</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">…………….</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">with their teachers during lessons.</span></p></div>",
+          "type": "SIG",
+          "level": "TH",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853884,
+              "content": "<div><p style=\"margin:0pt; orphans:0; padding-left:15pt; text-indent:-15pt; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> contact</span></p><p style=\"margin:0pt; orphans:0; padding-left:15pt; text-indent:-15pt; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853885,
+              "content": "<div><p style=\"margin:0pt; orphans:0; padding-left:15pt; text-indent:-15pt; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> interact</span></p><p style=\"margin:0pt; orphans:0; padding-left:15pt; text-indent:-15pt; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853868,
+              "content": "<div><p style=\"margin:0pt; orphans:0; padding-left:15pt; text-indent:-15pt; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> transmit</span></p><p style=\"margin:0pt; orphans:0; padding-left:15pt; text-indent:-15pt; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853867,
+              "content": "<div><p style=\"margin:0pt; orphans:0; padding-left:15pt; text-indent:-15pt; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> relax</span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227714,
+          "order": 9,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">The long hot summer has led to a serious water ………..in this area.</span></p></div>",
+          "type": "SIG",
+          "level": "TH",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853866,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">shortage</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853856,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">abundance</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853849,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">amount</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853850,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">loss</span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227715,
+          "order": 10,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Emily said that her teacher would go to London ……………….  </span></p></div>",
+          "type": "SIG",
+          "level": "TH",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853851,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">the day before</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853852,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> tomorrow </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853853,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> the previous day</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853854,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> the next day</span></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227716,
+          "order": 11,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">If the weather is bad, we ……………… the trip to Hanoi capital.</span></p></div>",
+          "type": "SIG",
+          "level": "TH",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853855,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> will cancel</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853857,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">canceled</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853865,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">would cancel</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853858,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> cancel</span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227699,
+          "order": 12,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">My mother works as a nurse in a big hospital. She spends hours taking care of………every day.</span></p></div>",
+          "type": "SIG",
+          "level": "VD",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853859,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">the unemployed</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853860,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">the sick</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853861,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">the young</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853862,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">the poor</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        }
+      ],
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227672,
+      "order": 5,
+      "score": 0.5,
+      "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt 0pt 6pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold\">Mark the letter A, B, C, or D on your answer sheet to indicate the word or phrase that is CLOSEST  in meaning to the underlined part in each of the following questions. </span></p></div>",
+      "type": null,
+      "level": null,
+      "format": "GRO",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": null,
+      "questions": [
+        {
+          "id": 227698,
+          "order": 1,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:6pt 0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">It was a difficult tune, but we never </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold\">g</span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold; text-decoration:underline\">ave up</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> hope.</span></p></div>",
+          "type": "SIG",
+          "level": "TH",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853863,
+              "content": "<div><p style=\"margin:6pt 0pt 0pt; orphans:0; widows:0\"><span style=\"font-family:'Bookman Old Style'; font-size:13pt\"> stopped</span></p><p style=\"margin:0pt 0pt 6pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853864,
+              "content": "<div><p style=\"margin:6pt 0pt 0pt; orphans:0; widows:0\"><span style=\"font-family:'Bookman Old Style'; font-size:13pt\">determined</span></p><p style=\"margin:0pt 0pt 6pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853808,
+              "content": "<div><p style=\"margin:6pt 0pt 0pt; orphans:0; widows:0\"><span style=\"font-family:'Bookman Old Style'; font-size:13pt\">maintained</span></p><p style=\"margin:0pt 0pt 6pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853807,
+              "content": "<div><p style=\"margin:6pt 0pt; orphans:0; widows:0\"><span style=\"font-family:'Bookman Old Style'; font-size:13pt\"> offered   </span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227697,
+          "order": 2,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:6pt 0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">The President expressed his deep </span><span style=\"font-family:'Times New Roman'; font-size:13pt; text-decoration:underline\">s</span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold; text-decoration:underline\">orrow</span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold; text-decoration:underline\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">over the bombing deaths. </span></p></div>",
+          "type": "SIG",
+          "level": "TH",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853806,
+              "content": "<div><p style=\"margin:6pt 0pt 0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">happiness</span></p><p style=\"margin:0pt 0pt 6pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853766,
+              "content": "<div><p style=\"margin:6pt 0pt 0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> anger</span></p><p style=\"margin:0pt 0pt 6pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853749,
+              "content": "<div><p style=\"margin:6pt 0pt 0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> sadness</span></p><p style=\"margin:0pt 0pt 6pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853750,
+              "content": "<div><p style=\"margin:6pt 0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> passion</span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        }
+      ],
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227673,
+      "order": 6,
+      "score": 0.5,
+      "content": "<div><p style=\"margin:6pt 0pt 0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt 0pt 6pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold\">Mark the letter A, B, C, or D on your answer sheet to indicate the word or phrase that is OPPOSITE in meaning to the underlined part in each of the following questions. </span></p></div>",
+      "type": null,
+      "level": null,
+      "format": "GRO",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": null,
+      "questions": [
+        {
+          "id": 227687,
+          "order": 1,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:3pt 0pt 0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">My brother had a serious accident last year. Therefore, his study was </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold; text-decoration:underline\">interrupted</span></p></div>",
+          "type": "SIG",
+          "level": "TH",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853751,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">continued</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853752,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">stopped</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853753,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">blocked</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853754,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">determined</span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227680,
+          "order": 2,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:Garamond; font-size:13pt\">Some of the more </span><span style=\"font-family:Garamond; font-size:13pt; font-weight:bold; text-decoration:underline\">time consuming</span><span style=\"font-family:Garamond; font-size:13pt\"> jobs can now be done by machines.</span></p></div>",
+          "type": "SIG",
+          "level": "VD",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853755,
+              "content": "<div><p style=\"margin:0pt; orphans:0; padding-left:20pt; text-indent:-20pt; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> taking much time</span></p><p style=\"margin:0pt; orphans:0; padding-left:20pt; text-indent:-20pt; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853757,
+              "content": "<div><p style=\"margin:0pt; orphans:0; padding-left:20pt; text-indent:-20pt; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> taking little time</span></p><p style=\"margin:0pt; orphans:0; padding-left:20pt; text-indent:-20pt; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853765,
+              "content": "<div><p style=\"margin:0pt; orphans:0; padding-left:20pt; text-indent:-20pt; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> odd</span></p><p style=\"margin:0pt; orphans:0; padding-left:20pt; text-indent:-20pt; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853758,
+              "content": "<div><p style=\"margin:0pt; orphans:0; padding-left:20pt; text-indent:-20pt; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> not affected by time</span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        }
+      ],
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227674,
+      "order": 7,
+      "score": 0.5,
+      "content": "<div><p style=\"margin:0pt; orphans:0; padding-left:20pt; text-indent:-20pt; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold\">Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that best completes each of the following exchanges.</span></p></div>",
+      "type": null,
+      "level": null,
+      "format": "GRO",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": null,
+      "questions": [
+        {
+          "id": 227681,
+          "order": 1,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold\">Nam</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">: What is your timetable at school?</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold\">       Hung</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">: …………………………………………………………………</span><span style=\"width:10.32pt; text-indent:0pt; display:inline-block\"></span></p></div>",
+          "type": "SIG",
+          "level": "NB",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853759,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> I go to school in the morning and by bike</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853760,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> I have ten subjects and like them</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853761,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> I go to school in the afternoon and have five classes</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853762,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> I enjoy Maths and English most</span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227682,
+          "order": 2,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold\">Jenny:</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> \"I think the Internet is one of the most important inventions in our life.\"</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold\">Jimmy:</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> \"………………………………………………….It has brought us a lot of benefits.\"</span></p></div>",
+          "type": "SIG",
+          "level": "TH",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853763,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">It is kind of you</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853764,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">You’re wrong</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853748,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> I don't quite agree</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853756,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> I completely agree with you</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        }
+      ],
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227675,
+      "order": 8,
+      "score": 1.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold\">Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct word or phrase that best fits each of</span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold\">the blanks </span></p><p style=\"margin:0pt; orphans:0; text-align:justify; text-indent:25pt; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">I began my teaching car</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">eer nearly ten years ago. I </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">…….. six years teaching in a remote village </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">where </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">the villagers were very poor and the living standard wa</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">s low. Sometimes I was very </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">…….because of bad living condition and low</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> pay. I was really homesick;</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">………, at that time, with my youth </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">enthusiasm</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">, I tried my best to devote </span><span style=\"color:#0f0f0a; font-family:'Times New Roman'; font-size:13pt\">myself </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">to the noblest career which was \"teaching\". I loved my poor little students. They were living in </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">poverty, </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">but they could not </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">suffer </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">from empty mind.</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">I am proud </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">.....................</span><span style=\"width:15.46pt; text-indent:0pt; display:inline-block\"></span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\"> myself to be a teacher, a hard working \"boatman\" taking my students to the \"destinatio</span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">n\" of </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">...........................</span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:normal\">.</span></p></div>",
+      "type": null,
+      "level": null,
+      "format": "GRO",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": null,
+      "questions": [
+        {
+          "id": 227683,
+          "order": 1,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "type": "SIG",
+          "level": "TH",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853747,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">spent</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853736,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">had</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853729,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">gave</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853730,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">took</span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227684,
+          "order": 2,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "type": "SIG",
+          "level": "NB",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853731,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">disappointedly</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853732,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">disappointed</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853733,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">disappointing</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853734,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">disappoint</span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227685,
+          "order": 3,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "type": "SIG",
+          "level": "VD",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853735,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">but</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853737,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">therefore</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853745,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">and</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853738,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">however</span></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227686,
+          "order": 4,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "type": "SIG",
+          "level": "NB",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853739,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">in</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853740,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">of</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853741,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">about</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853742,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">on</span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227688,
+          "order": 5,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "type": "SIG",
+          "level": "TH",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853743,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">knowledge</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853744,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">experience</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853746,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">competence</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853767,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">assistance</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        }
+      ],
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227676,
+      "order": 9,
+      "score": 1.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold\">Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the questions </span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Parents often have dreams for their children’s future. They hope their children will have a better life than they had. They dream that their children will do things that they couldn’t do. Parents who come to the U.S from foreign countries hope their children will have better education here. </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold; text-decoration:underline\">They</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> think their children will have more </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-style:italic; font-weight:bold\">career</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> choices and more successful lives. They make many sacrifices so that their children will have more opportunities. They think their children will remain close to them because of these sacrifices. Some children understand and appreciate these sacrifices and remain close to their parents. However, other children feel ashamed that their parents are so different from other Americans.</span></p></div>",
+      "type": null,
+      "level": null,
+      "format": "GRO",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": null,
+      "questions": [
+        {
+          "id": 227696,
+          "order": 1,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">What is the main idea of the passage?</span></p></div>",
+          "type": "SIG",
+          "level": "TH",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853786,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Their children will make a lot of money in the future           </span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853768,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Parents want their children to become famous people</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853789,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Parents hope to live on their children’s money in the future</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853790,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Parents dream of a bright future for their children</span></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227689,
+          "order": 2,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> The word “</span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold; text-decoration:underline\">They</span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold\">” </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">in line 3 refer</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">s</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> to……………….</span></p></div>",
+          "type": "SIG",
+          "level": "TH",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853791,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> dreams </span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853792,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> children </span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853793,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> parents</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853794,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> countries</span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227690,
+          "order": 3,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Parents think their children will remain close to them because……………….</span></p></div>",
+          "type": "SIG",
+          "level": "VD",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853795,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> they know their children will be successful in the future       </span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853797,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> they are living in a foreign country</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853805,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> they give their children a lot of money</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853798,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> they offer sacrifice</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> to their children</span></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227691,
+          "order": 4,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> The word </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-style:italic; font-weight:bold\">career</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> in line 3 is closest in meaning to………………..</span></p></div>",
+          "type": "SIG",
+          "level": "VD",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853799,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> travel          </span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853800,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> subject               </span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853801,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> job                   </span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853802,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> chance</span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227692,
+          "order": 5,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Which of the following statement is true according to the passage?</span></p></div>",
+          "type": "SIG",
+          "level": "TH",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853803,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> The parents think that the US has better education.</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">       </span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853804,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> They don’t make many sacrifices so that their children will have more opportunities. </span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853788,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> No one of their children understands and appreciates these sacrifices.</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853796,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> They think their children will not remain close to them because of these sacrifices.</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        }
+      ],
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227677,
+      "order": 10,
+      "score": 0.75,
+      "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold\">Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that is CLOSEST in meaning to the sentence given in each of the following questions.</span></p></div>",
+      "type": null,
+      "level": null,
+      "format": "GRO",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": null,
+      "questions": [
+        {
+          "id": 227693,
+          "order": 1,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Mr. Long smoked a lot in his office, but he doesn't any more</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.</span></p></div>",
+          "type": "SIG",
+          "level": "VD",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853787,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Mr. Long didn’t use to smoke a lot in his office</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.  </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853776,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Mr. Long used to smoke a lot in his office</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853769,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Mr. Long uses to smoke a lot in his office</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.  </span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853770,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Mr. Long wants to smoke a lot in his office</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.</span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227694,
+          "order": 2,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Our team has just completed an important project</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.</span></p></div>",
+          "type": "SIG",
+          "level": "TH",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853771,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> An important project has just completed by our team</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.  </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853772,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">An important project been has just completed by our team</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853773,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> An important project has just been completed by our team</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">  </span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853774,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Our team has just been completed by an important project</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.</span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227695,
+          "order": 3,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> It was raining heavily, so we cancelled the picnic to the countryside last weekend</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.</span></p></div>",
+          "type": "SIG",
+          "level": "VD",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853775,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Because it was raining heavily, we continued the picnic to the countryside last weekend</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.  </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853777,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Although it was raining heavily, we cancelled the picnic to the countryside last weekend</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853785,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Because of it was raining heavily we cancelled the picnic to the countryside last weekend</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.  </span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853778,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Because it was raining heavily, we cancelled the picnic to the countryside last weekend</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.</span></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        }
+      ],
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227678,
+      "order": 11,
+      "score": 0.5,
+      "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt; font-weight:bold\">Mark the letter A, B, C, or D on your answer sheet to indicate the sentence that best combines each pair of sentences in the following sentences.</span></p></div>",
+      "type": null,
+      "level": null,
+      "format": "GRO",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": null,
+      "questions": [
+        {
+          "id": 227717,
+          "order": 1,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> The teamhas won the championship. This makes its fan feel extremely excited and proud.</span></p></div>",
+          "type": "SIG",
+          "level": "VD",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853779,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> The team</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">has won the championship makes its fan feel extremely excited and proud</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853780,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> The team has won the championship, which makes its fan feel extremely excited and proud</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853781,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">The team</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">has won the championship, makes its fan feel extremely excited and proud</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853782,
+              "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> The team</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">has won the championship who makes its fan feel extremely excited and proud.</span></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        },
+        {
+          "id": 227718,
+          "order": 2,
+          "score": 0.25,
+          "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> The police are looking for the man. We met him at the cinema last night.</span></p></div>",
+          "type": "SIG",
+          "level": "VD",
+          "format": "GRO",
+          "contentPanelId": 0,
+          "chapterId": 0,
+          "unitId": 0,
+          "answers": [
+            {
+              "id": 853783,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">The police are looking for the man that we met him at the cinema last night</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853784,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> The police are looking for the man which we met at the cinema last night</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853886,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">The police are looking for the man who</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">m</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> we met at the cinema last night</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p></div>",
+              "trueAnswer": 1,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            },
+            {
+              "id": 853887,
+              "content": "<div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> The police are looking for the man we met who at the cinema last night</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">.</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+              "trueAnswer": 0,
+              "position": null,
+              "groupOfFillBlank2": null,
+              "noShuffle": false,
+              "fileUrls": null,
+              "score": 0.0
+            }
+          ],
+          "questions": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "groupTitleIndex": null,
+          "groupTitle": null,
+          "firstIndexOfGroupTitle": false
+        }
+      ],
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    }
+  ]
+}

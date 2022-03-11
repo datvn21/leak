@@ -1,0 +1,905 @@
+{
+  "id": 12516,
+  "questions": [
+    {
+      "id": 214916,
+      "order": 1,
+      "score": 0.65,
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tìm câu sai trong các câu sau:</span></p></div></body></html>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 806339,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Hệ điều hành tổ chức giao tiếp giữa người dùng và hệ thống.</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806338,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Hệ điều hành tổ chức lưu trữ thông tin trên bộ nhớ ngoài.</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"color:#ff0000; font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806337,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Hệ điều hành thường được cài đặt sẵn từ khi sản xuất máy tính.</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806336,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Hệ điều hành có thành </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">phần để kết nối mạng xã hội, thư điện tử.</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": true
+    },
+    {
+      "id": 214917,
+      "order": 2,
+      "score": 0.65,
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thông thường hệ điều hành được lưu trữ ở đâu trên máy tính?</span></p></div></body></html>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 806335,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Bộ nhớ trong</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"color:#ff0000; font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806334,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Bộ nhớ ngoài</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806333,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Ram</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806332,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Bộ xử lý trung tâm</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 214918,
+      "order": 3,
+      "score": 0.65,
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Phần mở rộng của tên tệp thường thể hiện: </span></p></div></body></html>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 806331,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Ngày/giờ thay đổi tệp  </span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806330,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Kí</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">ch thước của tệp </span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"color:#ff0000; font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806329,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Kiểu tệp</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806328,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Tên thư mục chứa tệp</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 214919,
+      "order": 4,
+      "score": 0.65,
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Trong hệ điều hành Windows, tên tệp nào sau đây là hợp lệ? </span></p></div></body></html>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 806327,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Le*lan.DOC</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806326,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Pop\\Rock.PAS</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806295,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Tom/Jerry.COM </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">   </span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"color:#ff0000; font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806340,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Hanoi.TXT </span></p></div></body></html>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 214920,
+      "order": 5,
+      "score": 0.65,
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Hệ quản lí tệp trong HĐH Windows không cho phép tồn tại</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> hai tệp với các đường dẫn nào: </span></p></div></body></html>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 806341,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> C:\\HS\\TIN\\KIEMTRA1 và C:\\HS\\VAN\\KIEMTRA1   </span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"color:#ff0000; font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806342,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> C:\\HS\\TIN\\KIEMTRA1  và   C:\\HS\\TIN\\Kiemtra1</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806343,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> C:\\HS\\TIN\\KIEMTRA1 và  C:\\HS\\TIN\\HDH\\KIEMTRA1  </span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806344,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> C:\\HS\\TIN\\KIEMTRA1  và   A:\\HS\\TIN\\KIEMTRA1 </span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 214921,
+      "order": 6,
+      "score": 0.65,
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chọn phát</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> biểu đúng trong hệ điêu hành Windows:</span></p></div></body></html>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 806345,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thư mục là thành phần nhỏ nhất chứa thông tin.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"color:#ff0000; font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806346,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Thư mục có thể chứa tệp tin và thư mục con</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806347,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tệp tin có thể chứa thư mục và tệp tin con</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806348,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Ổ đĩa còn được gọi là tệp tin</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 214922,
+      "order": 7,
+      "score": 0.65,
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chọn đáp án chính xác: Thư mục </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">gốc là?</span></p></div></body></html>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 806349,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Thư mục được tạo tự động</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806350,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Thư mục chứa ít nhất một thư mục con</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806351,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Thư mục không chứa thư mục hay tệp nào khác</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806352,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Thư mục nằm trong thư mục khác</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 214923,
+      "order": 8,
+      "score": 0.65,
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Hệ điều hành được khởi động: </span></p></div></body></html>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 806325,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Trước khi các chương trình</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> ứng dụng được thực hiện</span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806324,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Trước và sau khi các chương trình ứng dụng được thực hiện </span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806323,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Sau khi các chương trình ứng dụng được thực hiện  </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">             </span></p><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806308,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; text-align:justify; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Trong khi các chương trình ứng dụng được thực hiện  </span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 214924,
+      "order": 9,
+      "score": 0.65,
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chế độ ra khỏi hệ thống nào</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> là an toàn nhất?</span></p></div></body></html>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 806296,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Turn Off</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806297,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Stand By</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806298,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Hibernate</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806299,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Restart</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 214925,
+      "order": 10,
+      "score": 0.65,
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thư mục con là </span></p></div></body></html>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 806300,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Thư mục chứa thư mục khác</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"color:#ff0000; font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806301,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> thư mục nằm trong thư mục khác</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806302,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> thư mục được tạo tự động</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806303,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> đơn vị nhỏ nhất của cây thư mục</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 214926,
+      "order": 11,
+      "score": 0.65,
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Các thao tác </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">chuột trên máy tính gồm?</span></p></div></body></html>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 806304,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Nháy nút trái và nút phải chuột</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"color:#ff0000; font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806305,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Nháy chuột, kéo thả chuột, di chuyển chuột, nháy nút trái chuột, nháy đúp chuột.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806306,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Di chuyển chuột, nháy đúp chuột, kéo thả chuột, nháy nút phải chuột</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806307,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Di chuyển chuột, nháy chuộ</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">t, nháy đúp chuột, kéo thả chuột, nháy nút phải chuột</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 214927,
+      "order": 12,
+      "score": 0.65,
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thanh công việc (Taskbar) là thanh: </span></p></div></body></html>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 806309,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Chỉ chứa đồng hồ </span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"color:#ff0000; font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806322,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Chứa nút Start, các chương trình đang hoạt động</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806310,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Chỉ chứa nút Start </span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806311,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Chỉ chứa các chương trình đang chạy</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 214928,
+      "order": 13,
+      "score": 0.65,
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chọn </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">đáp án đúng nhất. Thao tác tạo thư mục có thể được thực hiện như sau:</span></p></div></body></html>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 806312,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Click Right -&gt; Folder</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806313,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Click Right -&gt; New -&gt; File</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806314,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Click Right -&gt; Open-&gt; Folder</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"color:#ff0000; font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806315,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Click Right -&gt; New -&gt; Folder</span></p></div></body></html>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 214929,
+      "order": 14,
+      "score": 0.9,
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Cách xóa một tệp hay thư mục là: chọn tệp/thư mụ</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">c cần xóa rồi:</span></p></div></body></html>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 806316,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Nhấn tổ hợp phím Caps Lock</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"color:#ff0000; font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806317,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Nhấn phím Delete</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806318,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Nhấn tổ hợp phím Tab</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806319,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Nhấn phím Enter</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 214930,
+      "order": 15,
+      "score": 0.65,
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Tổ hợp phím tắt để sao chép một tệp/ thư mục vào bộ nhớ đệm là:</span></p></div></body></html>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 806320,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"font-size:13pt; line-height:115%; margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Ctrl + X</span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806321,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"font-size:13pt; line-height:115%; margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Ctrl + V</span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt; orphans:0; widows:0\"><span style=\"color:#ff0000; font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806353,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"font-size:13pt; line-height:115%; margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Ctrl + C</span></p><p style=\"font-size:12pt; line-height:115%; margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">&#xa0;</span></p></div></body></html>",
+          "trueAnswer": 1,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        },
+        {
+          "id": 806354,
+          "content": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for .NET 15.12.0.0\" /><title></title></head><body style=\"background:#ffffff\"><div><p style=\"font-size:13pt; line-height:115%; margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Ctrl + B</span></p></div></body></html>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": null,
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    }
+  ]
+}

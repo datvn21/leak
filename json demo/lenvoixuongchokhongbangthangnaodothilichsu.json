@@ -1,0 +1,2405 @@
+{
+  "id": 13147,
+  "questions": [
+    {
+      "id": 227097,
+      "order": 1,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Vào thế kỉ IX, trên lưu vực sông I-ra-oa-đi, người Miến đã lập ra Vương quốc nào? </span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851471,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Vương quố</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">c H</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">a-ri-pun-giay-a</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851478,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Vương quố</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">c Phù Nam.                                </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851470,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Vương quốc Cham-pa </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851468,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Vương quốc Pa-gan </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">                                    </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": true
+    },
+    {
+      "id": 227098,
+      "order": 2,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Hệ quả quan trọng nhất của phát kiến địa lí đối với Tây Âu thời hậu kì trung đại là</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851393,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đem lại những hiểu biết về các vùng đất mới, dân tộc mới</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851394,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Mở mang nhận thức khoa học cho con người</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851392,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tìm được nguồn hương liệu và thị trường mới, đáp ứng nhu cầu của nền sản xuất</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851395,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thúc </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">đẩy quá trình khủng hoảng, tan rã của quan hệ sản xuất phong kiến và sự ra đời của chủ nghĩa tư bản ở châu Âu</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227091,
+      "order": 3,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Các quốc gia phong kiến Đông Nam Á được hình thành trong khoảng thời gian nào?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851485,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">10 thế kỉ đầu Công nguyên</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">                    </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851488,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thế kỉ XIII</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851486,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thế kỉ VII – thế kỉ X</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851487,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thế kỉ X – thế kỉ XIII</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">                    </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227088,
+      "order": 4,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Điểm khác của vương triều Môgôn so với vương triều Hồi giáo Đêli là gì?</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851445,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Không xoa dịu được mâu thuẫn sắc tộc, tôn giáo ở Ấn </span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851447,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Là vương triều theo Hồi giáo</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851448,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Là vương triều ngoại tộc</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851446,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Được xây dựng và củng cố theo hướng “Ấn Độ hóa”</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227087,
+      "order": 5,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Ảnh hưởng mạnh mẽ và sâu sắc nhất của văn hóa truyền thống Ấn Độ ra bên ngoài là</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851451,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">tôn giáo</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">            </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851458,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">chữ viết</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">               </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851452,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">tôn giáo và chữ viết</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851450,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">văn hóa</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227074,
+      "order": 6,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đặc điểm nổi bật về kinh tế của lãnh địa phong kiến là gì?</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851389,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nông dân sản xuất ra được mọi thứ cân dùng trong lãnh địa</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851382,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Lãnh địa là một cơ sở kinh tế đóng kín, mang tính chất tự nhiên, tự cấp, tự túc</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851400,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Sản xuất có những tiến bộ đáng kể: dùng phân bón, gieo trồng theo thời vụ</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851383,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chỉ mua sắt, muối và sa xỉ phẩm từ bên ngoài lãnh địa</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227062,
+      "order": 7,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Điểm khác trong chính sách đối ngoại của </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">vương quốc Lan Xang so với vương quốc Campuchia là</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851375,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chính sách phân biệt sắc tộc, tôn giáo</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851372,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chính sách đối ngoại hiếu chiến</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851373,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Quan tâm đến văn hóa, nghệ thuật</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851374,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chính sách hòa hiếu với các nước láng giềng</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227077,
+      "order": 8,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Người đã thực hiện chuyến đi đầu tiên vòng quanh thế giới là</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851381,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">C.Côlômbô</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851402,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">B.Điaxơ</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851399,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Ph.Magienlan</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851403,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Vaxco đơ Gama</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227081,
+      "order": 9,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Yếu tố nào dưới đây </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-style:italic\">không </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">thuộc sự phát triển về văn hoá lâu đời của Ấn Độ?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851435,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chữ vi</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">ết</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">, đặc biệt là chữ Phạn.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851436,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tôn giáo (Phậ</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">t giáo và Hìm-đu giáo)</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851433,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Lễ, hội tổ chức vào mùa gặt hái.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851434,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nghệ thuật kiến trúc đền chùa, lăng mộ, tượng Phật.</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">  </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227071,
+      "order": 10,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Để bảo vệ lợi ích của mình, thương nhân đã lập ra</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851410,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Các hội chợ</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851408,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Các hội buôn</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">        </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851418,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">C</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">ác thương hội</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">                </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851411,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tổ chức tín dụng </span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227073,
+      "order": 11,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chế độ phong kiến châu Âu thời sơ kì trung đại được gọi là chế độ phong kiến phân quyền vì</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851417,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Mỗi lãnh địa như một nước nhỏ, một pháo đài kiên cố, bất khả xâm phạm</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851416,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chính quyền được phân thành nhiều bộ với những chức năng, nhiệm vụ độc lập.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851401,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nhà vua có quyền lực tối cao nhưng quyền hành của bộ máy giúp việ</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">c,</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">cũng không nhỏ</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851409,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Có sự phân biệt rõ giữa quyền lập pháp của nhà vua và quyền hành pháp của lãnh chúa</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227092,
+      "order": 12,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thời kì phát triển thịnh đạt của các quốc gia phong kiến Đông Nam Á là</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851490,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">T</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">hế kỉ X – thế kỉ XVIII</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851492,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thế kỉ XIII – thế kỉ XVIII</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851489,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thế kỉ X – thế kỉ XIII</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">                    </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851491,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thế kỉ XV – thế kỉ XVIII</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">                    </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227063,
+      "order": 13,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đến nửa cuối thế kỉ XIX, nét tương đồng của lịch sử Lào và lịch sử các nước trên bán đảo Đông Dương thể hiện ở điểm nào?</span></p></div>",
+      "type": "SIG",
+      "level": "VD",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851376,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đều trở thành đối tượng nhòm ngó, xâm lược của nước ngoài</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851361,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Bị thực dân Pháp xâm lược và áp đặt ách cai trị</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851377,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đều bị thực dân phương Tây nhòm ngó, xâm lược</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851369,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Là quốc gia phong kiến phát triển trong khu vực</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227070,
+      "order": 14,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Cư dân chủ yếu của thành thị là</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851407,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Lãnh chúa, thợ thủ công</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851404,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thợ thủ công, thương nhân</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851406,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Lãnh chúa, quý tộc</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">                        </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851405,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thợ thủ công, nông dân</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227083,
+      "order": 15,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Ý nào </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-style:italic\">không</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> phản ánh đúng chính sách thống trị của Vương triều Hồi giáo Đêli đối với nhân dân Ấn Độ?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851426,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tự giành cho mình những ưu tiên về ruộng đất, địa vị trong xã hội</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851425,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Cũng có những chính sách mềm mỏng để giữ yên đất nước</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851427,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Truyền bá và áp đặt Hồi giáo đối với cư dân theo đạo Hinđu</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851428,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Khuyến khích, hỗ trợ các hoạt động sáng tác văn hóa, nghệ thuật</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227069,
+      "order": 16,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đơn vị chính trị, kinh tế cơ bản của chế độ phong kiến phân quyền ở Tây Âu là</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851380,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thành thị</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851357,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Lãnh địa</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851356,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Trang trại</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851359,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Xưởng thủ công</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">        </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227086,
+      "order": 17,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nguyên nhân chính khiến Ấn Độ bị người Hồi giáo xâm chiếm là</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851454,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Trình độ kinh tế, quân sự của Ấn Độ kém phát triển hơn</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851455,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Người dân Ấn Độ phần lớn đạo Hồi</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851453,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Địa hình Ấn Độ bị chia rẽ, cô lập với bên ngoài</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851456,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Ấn Độ bị chia rẽ và phân tán thành nhiều quốc gia</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227084,
+      "order": 18,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Người thiết lập vương triều Môgôn ở Ấn Độ là</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851424,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Timua Leng    </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851423,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Acơba</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851429,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Giahanghia</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851422,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Babua</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227076,
+      "order": 19,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Các phường hội đặt ra phường quy nhằm nhiều mục đích, ngoại trừ việc</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851390,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Bảo vệ quyền lợi co những người cùng ngành nghề</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851398,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đấu tranh chống sự áp đặt, sách nhiễu của các lãnh chúa</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851388,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Giữ độc quyền trong sản xuất, tiêu thụ sản phẩm</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851391,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đấu tranh vì quyền lợi kinh tế, chính trị của các thành viên</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227072,
+      "order": 20,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Vai trò quan trọng nhất của thành thị đối với sự phát triển của các nước Tây Âu thời trung đại là</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851412,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Góp phần phá vỡ nền kinh tế tự nhiên của các lãnh địa</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851415,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">G</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">óp phần xóa bỏ chế độ phong kiến phân quyền, thống nhất quốc gia dân tộc</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851414,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Mang không khí tự do, dân chủ, mở mang tri thức cho mọi người</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851413,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thúc đẩy nền kinh tế công thương nghiệp phát triển</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227061,
+      "order": 21,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Vai trò của Pha Ngừm với vương quốc Lan Xang là </span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851378,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Bảo vệ đất nước khỏi sự xâm lược của Mianma</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">     </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851370,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chia đất nước thành 7 tỉnh</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851368,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thống nhất các mường cổ</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851371,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Xây dựng Thạt Luổng</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227079,
+      "order": 22,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thế kỉ X – XII, ở khu vực Đông Nam Á, Campuchia được gọi là</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851420,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Vương quốc chịu ảnh hưởng sâu sắc nhất của văn hóa Ấn Độ</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851421,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Vương quốc mạnh và ham chiến trận nhất</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851476,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Vương quốc phát triển nhất</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">                     </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851477,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Vương quốc hung mạnh nhất</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227066,
+      "order": 23,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nguồn gốc hình thành giai cấp nông nô là</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851358,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Người dân Rôma</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851350,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Từ binh chiến tranh</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851351,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Người dân nghèo Giécman</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851348,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">N</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">ô lệ và nông dân</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227067,
+      "order": 24,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Quá trình hình thành quan hệ sản xuất phong kiến ở Tây Âu là quá trình</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851352,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tập trung ruộng đất thành những lãnh địa lớn</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851354,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Xác lập quan hệ bóc lột của lãnh chúa đối với nông nô</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851355,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Hình thành các vương quốc phong kiến</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851353,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chia tách đế quốc Rôma cổ đại thành nhiều vương quốc nhỏ</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227080,
+      "order": 25,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Ý </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-style:italic\">không</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> phản ánh đúng nét nổi bật của Campuchia thời kì phát triển nhất (thế kỉ IX – XV) là</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851475,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Không ngừng mở rộng lãnh thổ </span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851473,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đạt được nhiều thành tựu về</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> văn hóa </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851472,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Kinh tế phát triển mạnh, xã hội ổn đị</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">nh </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851474,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chuyển kinh đô về Phnôm Pênh</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">             </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227082,
+      "order": 26,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Cho các sự kiện: Có chín đời vua, trải qua 150 năm. Sự định hình và phát triển của văn hoá truyền thông Ấn Độ. Đó là Vương triều nào ở Ấn Độ?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851431,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Vương triều Gúp-ta.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851438,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Vương triề</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">u Mô-gôn.                                                   </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851432,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Vương triều Hồi giáo Đê-li.</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">                                        </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851430,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Vương triều A-cơ-ba.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227090,
+      "order": 27,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tộc người ở nước ta sử dụng chữ Phạn là</span></p></div>",
+      "type": "SIG",
+      "level": "VD",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851482,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Dân tộc Thái</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851483,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Dân tộc Chăm</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">                 </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">                          </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851461,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Dân tộc Tày</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">                    </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">                          </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851484,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">T</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">ất cả các dân tộc ở Tây Nguyên</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227096,
+      "order": 28,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Quốc gia cổ góp phần hình thành nên đất nước Việt Nam ngày nay là</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851464,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Âu Lạc, Champa, Phù Nam</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851467,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đại Việt, Vạn Xuân, Champa</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851466,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Âu Lạc, Champa, Chân Lạp</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">                      </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851465,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Champa, Phù Nam</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227075,
+      "order": 29,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Hướng đi của C.Côlômbô có điểm gì khác với các nhà phát kiến địa lí khác</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851385,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đi sang hướng đông</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851387,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Ngược lên hướng bắc</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851386,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đi về hướng tây</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851384,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Đi xuống hướng nam</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227060,
+      "order": 30,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Người Hồi giáo gốc Trung Á tiến hành cuộc chinh chiến vào Ấn Độ, lập ra Vương triề</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">u</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851439,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Hồi </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">giáo Đê-li.</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">              </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851460,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Gúp-ta.</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">         </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851437,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">A</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">-sô-ca.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851459,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Mô-gôn.</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">              </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227089,
+      "order": 31,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nét nổi bật của tình hình Ấn Độ dưới vương triều Hồi giáo Đêli là</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851341,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Diễn ra sự giao lưu văn hóa bản địa và văn hóa Hồi giáo; từ Ấn Độ Hồi giáo được truyền bá sang vùng Đông Nam Á</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851443,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Diễn ra sự giao lưu văn hóa Đông</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">– Tây </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851444,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Vương triều Đêli là vương triều ngoại tộc nhưng đã nhanh chóng tự biến thành vương triều của người Ấn Độ</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851442,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Hồi giáo từ Ấn Độ được truyền bá và ảnh hưởng đến nhiều nơi ở Đông Nam Á</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227065,
+      "order": 32,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Khi tràn vào lãnh thổ</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> Rô</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">ma người Giécman đã củng cố thế lực của mình bằng nhiều biện pháp, </span><span style=\"font-family:'Times New Roman'; font-size:13pt; font-style:italic\">ngoại trừ</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851346,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thủ lĩnh tự xưng là vua và phong các tước vị</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851344,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chiếm ruộng đất của chủ nô Rôma để chia cho nhau</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851345,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thủ tiêu bộ máy nhà nước cũ, lập nhiều vương quốc mới của họ</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851347,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Duy trì các tôn giáo nguyên thủy của người Giécman</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227078,
+      "order": 33,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nguyên nhân quan trọng nhất khiến vương quốc Lan Xang suy yếu là</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851419,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Mâu thuẫ</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">n trong hoàng</span><span style=\"font-family:'Times New Roman'; font-size:13pt\"> tộc</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">                  </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851362,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Pháp gây chiến tranh xâm lược Lào</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851379,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Xiêm xâm lược và cai trị Lào</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851363,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Các cuộc khởi nghĩa nông dân bùng phát</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227095,
+      "order": 34,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Các quốc gia phong kiến dân tộc được hình thành ở Đông Nam Á từ thế kỉ VII đến thế kỉ X lấy nhân tố nào làm nòng cốt?</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851462,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> một liên minh các thị tộc.                        </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851479,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">một bộ tộc đông và phát triển nhất.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851469,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">một liên minh các bộ lạc.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851463,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">một bộ tộc hiếu chiến nhất.</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227093,
+      "order": 35,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Cuối thế kỉ XIX, tình hình nổi bật ở hầu hết các quốc gia Đông Nam Á là</span></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851496,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Sự chia rẽ về sắc tộc và tôn giáo của các quốc gia trong khu vực</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851494,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chế độ phong kiến khủng hoảng sâu sắc</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851493,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Chế độ phong kiến khủng hoảng </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">, </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">bị biến thành thuộc địa của tư bản phương Tây</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851495,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Sự bùng phát của các cuộc khởi nghĩa nông dân</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227068,
+      "order": 36,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">T</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">hời kì phát triển nhất của Campuchia được gọi là</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851367,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thời kì Phnôm Pênh</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851364,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thời kì Ăngco</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851365,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thời kì vàng</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851366,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thời kì hoàng kim</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">                   </span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227085,
+      "order": 37,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Điểm chung của vương triều Hồi giáo Đêli và vương triều Hồi giáo Môgôn là gì?</span></p></div>",
+      "type": "SIG",
+      "level": "TH",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851457,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đều có những ông vua nổi tiếng bậc nhất trong lịch sử Ấn Độ</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851440,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đều là hai vương triều ngoại tộc và theo Hồi giáo</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851441,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đều thuộc giai đoạn phát triển thịnh đạt nhất của chế độ phong kiến Ấn Độ</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851449,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Điều cai trị Ấn Độ theo hướng Hồi giáo hóa</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227064,
+      "order": 38,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Nét đặc sắc củ</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">a văn hóa L</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">ào và văn hóa Campuchia thể hiện như thế nào?</span></p></div>",
+      "type": "SIG",
+      "level": "VD",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851349,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đều có hệ thống chữ viết riêng</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851342,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Tiếp thu có chọn lọc những thành tựu văn hóa từ bên ngoài, kết hợp văn hóa bản địa để xây dựng nền văn hóa riêng đặc sắc</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851343,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Có nhiều công trình kiến trúc đền, tháp rất nổi tiếng</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851360,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Đều chịu ảnh hưởng của văn hóa Ấn Độ</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227099,
+      "order": 39,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Các cuộc phát kiến địa lí từ thế kỉ XV có ảnh hưởng tiêu cực gì đối với Việt Nam?</span></p></div>",
+      "type": "SIG",
+      "level": "VD",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851500,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Dẫn đến việc Việt Nam bị các nước phương Tây nhòm ngó và xâm lược.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851499,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">Thúc đẩy sự hưng khởi của một số đô thị.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851397,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Các giáo sĩ đạo Thiên chúa truyền đạo góp phần tạo ra chữ Quốc ngữ.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851396,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Bước đầu Việt Nam được tiếp xúc với luồng thương mại quốc tế phát triển.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    },
+    {
+      "id": 227094,
+      "order": 40,
+      "score": 0.25,
+      "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\"> </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Kết nối dữ liệu ở cột bên trái với tên quốc gia ở cột bên phải cho phù hợp:</span></p><table cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse:collapse; margin-left:0pt; width:495.85pt\"><tr style=\"height:80.5pt\"><td style=\"border-bottom-color:#000000; border-bottom-style:solid; border-bottom-width:0.75pt; border-left-color:#000000; border-left-style:solid; border-left-width:0.75pt; border-right-color:#000000; border-right-style:solid; border-right-width:0.75pt; border-top-color:#000000; border-top-style:solid; border-top-width:0.75pt; padding-left:5.03pt; padding-right:5.03pt; vertical-align:top; width:236.75pt\"><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">1. Thời kì các quốc gia cổ </span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">2. Thời kì các quốc gia phong kiến</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">3. Hiện nay</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"width:25.6pt; text-indent:0pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:25.6pt\"></span></p></td><td style=\"border-bottom-color:#000000; border-bottom-style:solid; border-bottom-width:0.75pt; border-left-color:#000000; border-left-style:solid; border-left-width:0.75pt; border-right-color:#000000; border-right-style:solid; border-right-width:0.75pt; border-top-color:#000000; border-top-style:solid; border-top-width:0.75pt; padding-left:5.03pt; padding-right:5.03pt; vertical-align:top; width:236.75pt\"><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">a) Đại Việ</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">t, Champa, A</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">ngco, Lan Xang, Sukhôthay, Aútthaya, Môgiôpait.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">b) </span><span style=\"font-family:'Times New Roman'; font-size:13pt\">Â</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">u L</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">ạ</span><span style=\"font-family:'Times New Roman'; font-size:13pt\">c, Champa, Phù Nam, Chân Lạp.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">c) Việt Nam, lào, Campuchia, Thái Lan, Mianma, malaixia, Xingapo, Inđônêxia.</span></p></td></tr></table><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+      "type": "SIG",
+      "level": "NB",
+      "format": "SIG",
+      "contentPanelId": 0,
+      "chapterId": 0,
+      "unitId": 0,
+      "answers": [
+        {
+          "id": 851481,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">1 – a, 2 – b, 3 – c</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851480,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">1 – c, 2 – a, 3 – b</span></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851497,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">1 – b, 2 – a, 3 – c.</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        },
+        {
+          "id": 851498,
+          "content": "<div><p style=\"margin:0pt; orphans:0; widows:0\"><span style=\"font-family:'Times New Roman'; font-size:13pt\">1 – c, 2 – b, 3 – a</span></p><p style=\"margin:0pt; orphans:0; widows:0\"></p></div>",
+          "trueAnswer": 0,
+          "position": null,
+          "groupOfFillBlank2": null,
+          "noShuffle": false,
+          "fileUrls": [],
+          "score": 0.0
+        }
+      ],
+      "questions": null,
+      "noShuffle": false,
+      "fileUrls": null,
+      "groupTitleIndex": null,
+      "groupTitle": null,
+      "firstIndexOfGroupTitle": false
+    }
+  ]
+}
