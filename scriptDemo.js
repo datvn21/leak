@@ -24,6 +24,12 @@ function ABCD(num) {
   return tag;
 }
 
+function HTMLtoOnlyText(html) {
+  //console.log(html.childNodes[0].childNodes[0].childNodes);
+  return html.textContent;
+}
+
+
 function showhide() {
   if (document.getElementById("tool").style.display == "flex") {
     document.getElementById("tool").style.display = "none";
