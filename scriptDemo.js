@@ -2,19 +2,6 @@ console.log("Yuuta");
 let id = 0;
 let min = 140;
 
-function stringToHTML(str) {
-  //console.log(str);
-  var parser = new DOMParser();
-  var doc = parser.parseFromString(str, "text/html");
-  //console.log(doc);
-  return doc.body;
-}
-
-function HTMLtoOnlyText(html) {
-  //console.log(html.childNodes[0].childNodes[0].childNodes);
-  return html.textContent;
-}
-
 function ABCD(num) {
   if (num == 0) {
     tag = "A";
@@ -96,40 +83,25 @@ function save() {
   }, 1500);
 }
 
-function run() {
-  console.log(min);
-  if (document.getElementById("min").value !== "") {
-    min = parseInt(document.getElementById("min").value, 10);
-  }
-  console.log(min);
-  for (
-    id = parseInt(document.getElementById("name").value, 10) + min;
-    id < parseInt(document.getElementById("name").value, 10) + 150;
-    id++
-  ) {
-    try {
-      get(id);
-    } catch (error) {
-      console.log(id + " NOT FOUND");
-    }
-  }
-}
+const stringToHTML = (str) => {
+  let parser = new DOMParser();
+  let doc = parser.parseFromString(str, "text/html");
+  return doc.body;
+};
+
 const stringNameTest = () => {
   get(document.getElementById("name").value);
 };
+
 function get(id) {
   resetOutput("questions");
   //console.log("Waitting...");
   document.getElementById("load").style.cssText =
     "animation-name: load;animation-duration: 0.5s;";
   jQuery
-    .getJSON(
-      "/json/" +
-        String(id) +
-        ".json"
-    )
+    .getJSON("/json/" + String(id) + ".json")
     .then((data) => {
-      //console.log(data);
+      console.log(data.questions);
       console.log("Size of Exam: " + data.questions.length + " questions");
       var width = $(window).width();
       if (width <= 600) {
@@ -141,6 +113,7 @@ function get(id) {
       setTimeout(function () {
         document.getElementById("load").style.display = "none";
       }, 500);
+
       for (let i = 0; i < data.questions.length; i++) {
         let question = data.questions[i].content;
         html = stringToHTML(question);
@@ -254,7 +227,6 @@ function get(id) {
       }
     })
     .catch((error) => {
-      //console.error(error);
       let id = parseInt(document.getElementById("name").value, 10) + 151;
       console.log(id + " NOT FOUND");
     });
