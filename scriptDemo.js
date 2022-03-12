@@ -124,7 +124,7 @@ function get(id) {
     "animation-name: load;animation-duration: 0.5s;";
   jQuery
     .getJSON(
-      "https://raw.githubusercontent.com/datvn21/lmschecker/main/json%20demo/" +
+      "/json/" +
         String(id) +
         ".json"
     )
