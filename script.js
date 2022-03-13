@@ -93,6 +93,18 @@ const stringNameTest = () => {
   get(document.getElementById("name").value);
 };
 
+const rmStyle = (style) => {
+  style.querySelectorAll("p")[0].attributes.style.value = "";
+  for (const [index, span] of style.querySelectorAll("span").entries()) {
+    span.attributes.style.value = "";
+  }
+  console.log(style.querySelectorAll("span"));
+  for (const [index, img] of style.querySelectorAll("img").entries()) {
+    img.attributes.style.value = "";
+  }
+  return style;
+};
+
 function get(id) {
   resetOutput("questions");
   //console.log("Waitting...");
@@ -120,15 +132,25 @@ function get(id) {
         qeDiv.classList.add("questions");
         qeDiv.setAttribute("id", "questions" + String(index));
         let addQeDiv = document.getElementById("export");
-        qeDiv.appendChild(stringToHTML(question.content).querySelector("div"));
+        qeDiv.appendChild(
+          rmStyle(stringToHTML(question.content).querySelector("div"))
+        );
         addQeDiv.appendChild(qeDiv);
         for (const [i, answer] of question.answers.entries()) {
           //console.log(stringToHTML(question.content).querySelector("div"));
+          //console.log(answer);
           let anDiv = document.createElement("div");
-          anDiv.classList.add("answers");
+          if (answer.trueAnswer == 1) {
+            console.log(answer.trueAnswer);
+            anDiv.classList.add("answers-right");
+          } else {
+            anDiv.classList.add("answers");
+          }
           anDiv.setAttribute("id", "answers");
           let addAnDiv = document.getElementById("questions" + String(index));
-          anDiv.appendChild(stringToHTML(answer.content).querySelector("div"));
+          anDiv.appendChild(
+            rmStyle(stringToHTML(answer.content).querySelector("div"))
+          );
           addAnDiv.appendChild(anDiv);
         }
       }

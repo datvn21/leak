@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lộ là đếm lịch :|</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="icon"
+      href="https://i.pinimg.com/originals/81/30/3d/81303df1e74f68ee2dcb60ea594056ab.png"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+    />
+    <script src="script.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  </head>
+
+  <body id="full">
+    <button class="mb" onclick="showhide()"><i class="fas fa-bars"></i></button>
+    <button onclick="save()" id="save" class="save">
+      <i class="fas fa-download"></i>
+    </button>
+    <div id="tool" class="tool">
+      <img
+        class="logo"
+        src="https://i.pinimg.com/originals/fb/f7/64/fbf76458d74b5236cb7ee9208563bebc.gif"
+        alt=""
+      />
+      <div style="top: 25%;" id="toHide" class="enter">
+        <div>Đạt: <br></br></div>
+        <input
+          onkeypress="enterKeyboard(event);"
+          placeholder="Ask Dat a code..."
+          type="text"
+          id="name"
+          class="inp"
+        />
+        <button id="btn" class="btn" onclick="stringNameTest()">Run</button>
+      </div>
+    </div>
+
+    <div id="export" class="export">
+      <div id="load">
+        <img
+          class="loading"
+          src="https://cdn.dribbble.com/users/97383/screenshots/2055128/loading-white-d.gif"
+          alt=""
+        />
+      </div>
+    </div>
+  </body>
+</html>

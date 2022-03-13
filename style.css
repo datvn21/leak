@@ -174,23 +174,26 @@ img {
 }
 
 .questions {
+  background-color: #fff0f5;
   font-size: 14px;
   padding: 5px;
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
   font-weight: 550;
   color: rgb(77, 77, 77);
-}
 
-.answers {
-  padding: 5px;
+}
+.questions span{
+  font-weight: bold;
+}
+.answers span{
   font-size: 14px;
-  margin-left: 15px;
   font-weight: normal;
 }
 
-.answers-right {
-  padding: 5px;
+.answers-right span {
   font-size: 14px;
-  margin-left: 15px;
   color: rgb(255, 87, 87);
   font-weight: bold;
 }
@@ -211,7 +214,6 @@ img {
   font-weight: bold;
 }
 .export .questions img {
-  max-height: 50px;
   width: auto;
   min-width: 0%;
 }
