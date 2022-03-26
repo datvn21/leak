@@ -171,7 +171,11 @@ img {
   width: 50%;
   height: 50%;
 }
-
+.loadingDemo{
+  width: 50%;
+  height: 50%;
+  border-radius: 30px;
+}
 .questions {
   font-size: 16px;
   padding: 5px;
@@ -179,22 +183,24 @@ img {
   margin-left: 5px;
   margin-right: 5px;
   color: rgb(77, 77, 77);
+  font-weight: bold;
 
 }
-.questions span{
-  font-weight: bold;
-}
-.answers span{
+.answers{
+  margin-left: 5px;
+  margin-top: 10px;
   font-size: 14px;
   font-weight: normal;
 }
 
 
 
-.answers-right span {
+.answers-right  {
+  margin-left: 5px;
+  margin-top: 10px;
   font-size: 14px;
   color: rgb(255, 87, 87);
-  font-weight: bold;
+  font-weight: 650;
 }
 
 .mb {

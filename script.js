@@ -132,9 +132,7 @@ function get(id) {
         qeDiv.classList.add("questions");
         qeDiv.setAttribute("id", "questions" + String(index));
         let addQeDiv = document.getElementById("export");
-        qeDiv.appendChild(
-          rmStyle(stringToHTML(question.content).querySelector("div"))
-        );
+        qeDiv.appendChild(stringToHTML(question.content).querySelector("div"));
         addQeDiv.appendChild(qeDiv);
         for (const [i, answer] of question.answers.entries()) {
           //console.log(stringToHTML(question.content).querySelector("div"));
@@ -148,9 +146,7 @@ function get(id) {
           }
           anDiv.setAttribute("id", "answers");
           let addAnDiv = document.getElementById("questions" + String(index));
-          anDiv.appendChild(
-            rmStyle(stringToHTML(answer.content).querySelector("div"))
-          );
+          anDiv.appendChild(stringToHTML(answer.content).querySelector("div"));
           addAnDiv.appendChild(anDiv);
         }
       }
