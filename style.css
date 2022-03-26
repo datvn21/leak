@@ -86,7 +86,6 @@ body {
   justify-content: center;
   height: 100vh;
   width: 50%;
-  background-color: #fad2df;
   border-right: 5px solid #fd98b8;
 }
 
@@ -174,13 +173,11 @@ img {
 }
 
 .questions {
-  background-color: #fff0f5;
-  font-size: 14px;
+  font-size: 16px;
   padding: 5px;
   margin-top: 10px;
   margin-left: 5px;
   margin-right: 5px;
-  font-weight: 550;
   color: rgb(77, 77, 77);
 
 }
@@ -191,6 +188,8 @@ img {
   font-size: 14px;
   font-weight: normal;
 }
+
+
 
 .answers-right span {
   font-size: 14px;
@@ -249,10 +248,6 @@ img {
     width: 100%;
     margin-left: 0%;
     padding: 0%;
-  }
-  .questions {
-    font-size: 14px;
-    font-weight: 500;
   }
   .save {
     right: 15%;
